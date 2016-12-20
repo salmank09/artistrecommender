@@ -1,0 +1,38 @@
+    1  sudo apt-get install postgresql
+    2  sudo su postgres
+    3  psql
+    4  sudo su postgres
+    5  sudo apt-get install anaconda
+    6  bash Anaconda3-4.2.0-MacOSX-x86_64.sh 
+    7  cd
+    8  https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh
+    9  wget https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh
+   10  ls
+   11  cd
+   12  ls
+   13  bash Anaconda3-4.2.0-Linux-x86_64.sh 
+   14  ipython
+   15  sudo apt-get install ipython
+   16  sudo apt-get install pyscopg2
+   17  conda install psycopg2
+   18  ipython
+   19  sudo apt-get install psycopg2
+   20  sudo apt-get install python-psycopg2
+   21  ipython
+   22  sudo apt-get install numpy
+   23  sudo apt-get install python-numpy
+   24  ipython
+   25  sudo apt-get install python-pandas
+   26  sudo apt-get install python-bs4
+   27  sudo apt-get install python-requests
+   28  ipython
+   29  LS
+   30  ls
+   31  sudo apt-get install git
+   32  git clone https://github.com/salmank09/artistrecommender
+   33  cd artistrecommender/
+   34  ls
+   35  cd src
+   36  ipython
+   37  history
+   38  history >> commands.txt
