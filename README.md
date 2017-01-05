@@ -20,8 +20,10 @@ However, this application can be scaled to encompass musicians across multiple g
 The list of musicians for whom the application provides recommendations for was curated through
 the following lists:
 
-- Discogs.com artists for most requested house albums since 2010.
+- Discogs.com first 25000 results for most requested house albums since 2010. Duplicate musicians and 'Various Artists' entries were removed.
+https://www.discogs.com/search/?sort=have%2Cdesc&style_exact=House&genre_exact=Electronic&decade=2010&page=500
 - Wikipedia's list of house musicians
+https://en.wikipedia.org/wiki/List_of_house_music_artists
 
 The list is additionally filtered down to musicians with Soundcloud and Spotify accounts with
 500 followers or more; to reduce the likelihood of fake or incorrect accounts.
