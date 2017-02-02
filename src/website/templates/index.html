@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Sal Stuff</title>
+  <meta name="description" content="Stuff in regards to Sal and his data science interests">
+  <meta name="author" content="Sal">
+
+  <script type="text/javascript" src="/static/js/jquery-3.1.1.min.js">
+  </script>
+  <script type="text/javascript" src="/static/js/bootstrap.min.js">
+  </script>
+  <script>
+    $(document).ready(function () {
+        $('.dropdown-toggle').dropdown();
+    });
+  </script>
+  <link rel="stylesheet" type="text/css"
+      href="/static/css/bootstrap.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <div class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-main">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">Sal Stuff</a>
+      </div>
+
+      <div class="navbar-collapse collapse" id="navbar-main">
+        <ul class="nav navbar-nav navbar-right">
+
+          <li><a href='/about'>About</a></li>
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="/artistrecommender">Artist Recommender</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li>
+                <a href="https://www.linkedin.com/in/salkhan09" target="_blank" align="center">
+                  <i class="fa fa-linkedin-square fa-3x"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/salmank09" target="_blank" align="center">
+                  <i class="fa fa-github-square fa-3x"></i>
+                </a>
+              </li>
+              <li>
+                <a href='mailto:sallyk09@gmail.com' target="_blank" align="center">
+                  <i class="fa fa-envelope fa-3x"></i>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div class="col-sm-3">
+      <div class="container-fluid" id="side-bar">
+          <br>
+          <!--
+          <img class="img-responsive" src="static/img/profile.jpg" alt="" height="409.6" width="273">
+        -->
+
+          <!--1365 × 2048-->
+          <p>
+            My name is Sal and I'm a data scientist located in Seattle.
+            I'll be using this site to publish ideas I have and projects I've
+            worked on.
+          </p>
+          <br>
+          <p>
+
+            If you have questions about my work or have interesting data science
+            projects that you would like assistance with, please contact me via
+            email, located in the Contact menu on the right-hand side of the
+            navigation bar, with details.
+          </p>
+
+      </div>
+    </div>
+
+    <div class="col-sm-8">
+      <div class="container-fluid">
+        <h2>Artist Recommender</h2>
+        <h4><small>January 2nd, 2017</small></h4>
+
+        <p>
+          I rely on streaming services such as Soundcloud and Spotify to get new
+          recommendations on House music to listen to. One shortcoming of these
+          recommender system is that they only recommend individual songs at a time.
+          I realized I would find it valuable to explore entire artist recommendations
+          so as to explore music that I like in larger quantities for a more immersive
+          experience than one-off songs from a variety of artists that I may or may not
+          like.
+        </p>
+        <p>
+          Visit <a href="/artistrecommender" target="_blank">salstuff.com/artistrecommender</a> to navigate to the artist recommender.
+        </p>
+        <p>
+          For a breakdown of how the recommender was built, visit <a href="https://github.com/salmank09/artistrecommender" target="_blank">github.com/salmank09/artistrecommender</a>.
+        </p>
+
+        <p>
+          <span class="label label-primary">Python</span>
+          <span class="label label-primary">Machine Learning</span>
+          <span class="label label-primary">Apache Spark</span>
+          <span class="label label-primary">Recommender Systems</span>
+          <span class="label label-primary">Collaborative Filtering</span>
+
+        </p>
+
+        <hr>
+      </div>
+    </div>
+
+
+  </div>
+  <div class="row">
+    <div class="col-sm-3">
+      <div class="container-fluid" id="side-bar">
+
+
+      </div>
+    </div>
+    <div class="col-sm-8">
+      <div class="container-fluid">
+        <h2>Introduction</h2>
+        <h4><small>January 1st, 2017</small></h4>
+
+        <p>
+          Thanks for visiting my website. This is my first of many posts to come, stay tuned.
+        </p>
+
+        <hr>
+      </div>
+    </div>
+
+  </div>
+
+
+</body>
+</html>

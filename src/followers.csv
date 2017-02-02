@@ -1,0 +1,501 @@
+exception,artist_num,artist_follower_num,artist_alias,follower_alias,comments_count,followers_count,followings_count,last_modified,likes_count,plan,playlist_count,public_favorites_count,reposts_count,track_count,uri,username
+no exception,1,1,loco_ono,pschedelicsuperfuzz,14,147,212,2015/09/19 09:13:17 +0000,0,Free,1,0,2,8,https://api.soundcloud.com/users/10234220,Matt Catling
+no exception,1,2,loco_ono,d-miller,45,177,421,2016/11/27 16:55:02 +0000,0,Free,4,0,6,31,https://api.soundcloud.com/users/2985327,Dirty Mind Detroit
+no exception,1,3,loco_ono,temporarynoiseradio,19,140,222,2016/12/12 17:09:39 +0000,0,Pro Unlimited,1,0,0,30,https://api.soundcloud.com/users/56685460,Temporary Noise Radio
+no exception,1,4,loco_ono,user-102056986,8,39,175,2016/09/22 13:22:17 +0000,0,Free,1,0,18,0,https://api.soundcloud.com/users/256453133,Daisydaresya
+no exception,1,5,loco_ono,jawman-2,0,7,25,2015/12/21 00:21:34 +0000,0,Free,0,0,0,1,https://api.soundcloud.com/users/13888362,JAWman
+no exception,1,6,loco_ono,sotnrecords,2,340,688,2016/09/07 11:56:22 +0000,0,Free,2,0,60,0,https://api.soundcloud.com/users/28802691,SOTNRecords
+no exception,1,7,loco_ono,daybreak0,71,79,1925,2016/10/17 22:36:09 +0000,0,Free,2,0,202,0,https://api.soundcloud.com/users/163107060,Daybreak
+no exception,1,8,loco_ono,brixtonradio,0,579,1591,2016/06/06 09:43:48 +0000,0,Free,388,0,1305,6,https://api.soundcloud.com/users/38997268,brixtonradio
+no exception,1,9,loco_ono,b-lap,13,79,394,2016/10/15 12:33:14 +0000,0,Free,4,0,45,7,https://api.soundcloud.com/users/98489658,B-Lap
+no exception,1,10,loco_ono,thecaress,0,72,233,2016/12/01 22:09:59 +0000,0,Pro,1,0,2,4,https://api.soundcloud.com/users/230501946,The Caress
+no exception,1,11,loco_ono,madisonmayhouse,0,143,1120,2016/11/30 01:08:23 +0000,0,Free,0,0,79,0,https://api.soundcloud.com/users/213558112,Madison
+no exception,1,12,loco_ono,dylan-trenouth-1,9,100,73,2016/11/29 22:33:03 +0000,0,Free,2,0,0,7,https://api.soundcloud.com/users/152164962,Dylan Trenouth
+no exception,1,13,loco_ono,dizzy_sound,7,1064,1472,2016/03/07 04:54:26 +0000,0,Free,0,0,1,25,https://api.soundcloud.com/users/78378849,dizzy_sound
+no exception,1,14,loco_ono,wannaballoon,0,26,35,2016/11/22 15:29:47 +0000,0,Free,2,0,0,10,https://api.soundcloud.com/users/159479017,WANNABALLOON
+no exception,1,15,loco_ono,kugey,1,144,377,2016/11/14 16:53:55 +0000,0,Free,0,0,648,8,https://api.soundcloud.com/users/3963323,kugey
+no exception,1,16,loco_ono,tigerheretigergone,58,467,1581,2016/11/29 00:10:10 +0000,0,Free,1,0,1,26,https://api.soundcloud.com/users/2448541,Tiger Here Tiger Gone
+no exception,1,17,loco_ono,properyarn,51,293,986,2016/06/30 18:07:32 +0000,0,Free,4,0,773,0,https://api.soundcloud.com/users/20968690,ProperYarn
+no exception,1,18,loco_ono,thesoundofeverythinguk,9,171,198,2016/09/07 14:26:15 +0000,0,Free,7,0,2,35,https://api.soundcloud.com/users/145742841,TheSoundofEverything UK
+no exception,1,19,loco_ono,roadkillrecordsofficial,1,50,95,2016/11/01 15:47:03 +0000,0,Free,7,0,4,8,https://api.soundcloud.com/users/176431319,Roadkill Records
+no exception,1,20,loco_ono,musicfansmic,17,2176,2000,2016/05/17 20:21:39 +0000,0,Free,1,0,229,19,https://api.soundcloud.com/users/11865,Music Fan's Mic
+no exception,1,21,loco_ono,dj-moron,5,93,538,2016/10/27 08:33:27 +0000,0,Free,9,0,378,0,https://api.soundcloud.com/users/65321213,DJ Moron
+no exception,1,22,loco_ono,heartbreakingbravery,0,74,156,2016/04/19 19:50:46 +0000,0,Free,0,0,0,7,https://api.soundcloud.com/users/183037852,Heartbreaking Bravery
+no exception,1,23,loco_ono,jointhepressure,94,279,188,2016/04/21 09:52:37 +0000,0,Free,31,0,0,1,https://api.soundcloud.com/users/4260381,PUBLIC PRESSURE
+no exception,1,24,loco_ono,damnably,16,641,135,2016/11/30 18:05:54 +0000,0,Pro Unlimited,19,0,4,150,https://api.soundcloud.com/users/2218446,Damnably Records
+no exception,1,25,loco_ono,worse-off,4,63,57,2016/09/09 17:33:35 +0000,0,Free,2,0,0,34,https://api.soundcloud.com/users/202855893,Worse Off
+no exception,1,26,loco_ono,stolen-wheels-band,0,745,1738,2016/08/07 13:09:45 +0000,0,Free,1,0,0,6,https://api.soundcloud.com/users/207971297,Stolen Wheels Band
+no exception,1,27,loco_ono,nicklaw-1,0,255,1594,2016/11/10 10:25:16 +0000,0,Free,2,0,0,3,https://api.soundcloud.com/users/2023191,nicklaw8
+no exception,1,28,loco_ono,elliot-avery-brookes,1,23,48,2016/07/23 22:41:40 +0000,0,Free,0,0,221,4,https://api.soundcloud.com/users/11864156,Elliot Avery
+no exception,1,29,loco_ono,sam-birkett-1,10,32,103,2015/08/29 10:57:47 +0000,0,Free,2,0,60,0,https://api.soundcloud.com/users/26666316,Sam Birkett
+no exception,1,30,loco_ono,bagzby,1,42,59,2016/11/16 22:54:23 +0000,0,Free,0,0,0,22,https://api.soundcloud.com/users/26898929,Jordan Nathaniel Brynley Griffiths
+no exception,1,31,loco_ono,lorraine-morton-1,0,91,621,2016/10/14 14:56:51 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/27091573,Lorrie1305
+no exception,1,32,loco_ono,gracez123,0,2,1,2016/09/17 16:53:29 +0000,0,Free,0,0,0,1,https://api.soundcloud.com/users/44496904,gracez123
+no exception,1,33,loco_ono,user538390848,0,0,1,2016/06/02 21:51:32 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/54669812,user538390848
+no exception,1,34,loco_ono,grooovybuddha,1,6,17,2016/10/03 21:46:43 +0000,0,Free,1,0,36,0,https://api.soundcloud.com/users/95906477,groovybuddha
+no exception,1,35,loco_ono,user559636563,1,33,78,2014/09/14 02:07:36 +0000,0,Free,2,0,31,3,https://api.soundcloud.com/users/111521962,user559636563
+no exception,1,36,loco_ono,monika-stachova,0,3,41,2016/12/11 00:00:40 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/246161208,Monika Stachová
+no exception,1,37,loco_ono,user-490868704,0,0,2,2016/08/19 23:14:25 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/248476166,User 490868704
+no exception,1,38,loco_ono,bottleneck-bob,9,60,32,2015/08/20 22:31:38 +0000,0,Free,2,0,0,53,https://api.soundcloud.com/users/2835813,Bottleneck bob
+no exception,1,39,loco_ono,tarabud,39,89,143,2016/03/28 18:33:43 +0000,0,Free,0,0,0,23,https://api.soundcloud.com/users/7355261,Tarabud
+no exception,1,40,loco_ono,the_suspects,1,54,44,2016/04/16 15:52:27 +0000,0,Free,2,0,0,9,https://api.soundcloud.com/users/10048563,The Suspects
+no exception,1,41,loco_ono,darren-hankin,168,530,1670,2016/07/25 20:56:21 +0000,0,Free,4,0,2,41,https://api.soundcloud.com/users/19899135,HANK-DE-CAPO
+no exception,1,42,loco_ono,joehenrik,5,91,43,2016/12/20 11:06:28 +0000,0,Free,0,0,0,28,https://api.soundcloud.com/users/25720055,Joe Henrik
+no exception,1,43,loco_ono,lisa-knight-8,0,91,508,2015/08/24 22:03:50 +0000,0,Free,1,0,533,0,https://api.soundcloud.com/users/26299414,Reflectivepoet
+no exception,1,44,loco_ono,the-mind-at-large,10,238,342,2016/12/03 15:19:19 +0000,0,Free,0,0,0,4,https://api.soundcloud.com/users/61797506,The Mind At Large
+no exception,1,45,loco_ono,kevingrist,0,2,22,2014/07/16 20:45:10 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/89530368,Kevin Grist
+no exception,1,46,loco_ono,losangeleslovesyou,20,45,418,2016/03/08 05:46:51 +0000,0,Free,1,0,317,0,https://api.soundcloud.com/users/97618311,Los Angeles Loves You
+no exception,1,47,loco_ono,wintermute-tapes,0,13,16,2016/07/05 11:39:10 +0000,0,Free,0,0,0,53,https://api.soundcloud.com/users/198437144,WINTERMUTE TAPES
+no exception,1,48,loco_ono,killrpnzl,24,182,202,2016/06/01 22:38:58 +0000,0,Free,1,0,0,47,https://api.soundcloud.com/users/867166,KILL RPNZL
+no exception,1,49,loco_ono,stiv69,0,13,2,2016/04/24 16:54:14 +0000,0,Free,1,0,0,9,https://api.soundcloud.com/users/4269353,stiv69
+no exception,1,50,loco_ono,jose-bat,0,35,96,2014/12/19 18:00:31 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/18557983,Jose Bat
+no exception,1,51,loco_ono,tosha-gee,0,18,783,2015/12/18 16:48:47 +0000,0,Free,0,0,15,0,https://api.soundcloud.com/users/193177147,Tosha Gee
+no exception,1,52,loco_ono,thestickfigures,21,223,176,2016/07/27 13:56:41 +0000,0,Free,1,0,0,23,https://api.soundcloud.com/users/49251848,The Stick Figures
+no exception,1,53,loco_ono,fourquartersband,0,28,24,2016/06/26 17:35:19 +0000,0,Free,1,0,0,6,https://api.soundcloud.com/users/159136067,Four Quarters
+no exception,1,54,loco_ono,felyyyyy,5,19,97,2016/02/11 19:36:15 +0000,0,Free,0,0,3,10,https://api.soundcloud.com/users/21107300,Mother Felaylay
+no exception,1,55,loco_ono,notneb-yakcm,1,36,35,2015/10/19 05:01:24 +0000,0,Free,1,0,7,0,https://api.soundcloud.com/users/28040352,Benton Mckay
+no exception,1,56,loco_ono,soho-stoner,2,12,4,2016/03/07 19:32:11 +0000,0,Free,0,0,0,4,https://api.soundcloud.com/users/67125291,SoHo-Stoner
+no exception,1,57,loco_ono,whitenoisenight,0,25,43,2016/04/13 07:33:28 +0000,0,Free,4,0,0,2,https://api.soundcloud.com/users/75612315,White Noise
+no exception,1,58,loco_ono,elle_music,0,12,17,2016/02/18 03:37:19 +0000,0,Free,0,0,2,2,https://api.soundcloud.com/users/80190237,ellə
+no exception,2,1,abc-open,sarah-southcoast,0,48,108,2016/08/24 03:51:19 +0000,0,Free,2,0,0,17,https://api.soundcloud.com/users/207893463,ABC Open South Coast and Tablelands
+no exception,2,2,abc-open,rosemccloud1883,0,484,985,2016/05/15 01:03:57 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/212219316,Rose McCloud1883
+no exception,2,3,abc-open,user-417157068,0,232,2001,2016/12/01 14:19:36 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/271912069,Madeline Lopez
+no exception,2,4,abc-open,nyanya246564,0,728,1735,2016/05/23 16:18:57 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/213178182,Nyanya_246564
+no exception,2,5,abc-open,almighty62369,0,626,1861,2016/05/27 05:47:27 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/213035856,cora_ellis92
+no exception,2,6,abc-open,yarra-campaign,0,8,68,2016/07/10 06:36:01 +0000,0,Free,1,0,2,7,https://api.soundcloud.com/users/64420907,Yarra Campaign
+no exception,2,7,abc-open,young-shizzie,76,459,1998,2016/08/25 20:21:26 +0000,0,Free,1,0,4,32,https://api.soundcloud.com/users/49453776,yS Ent
+no exception,2,8,abc-open,itsjustjordan94,0,682,1897,2016/03/20 00:24:13 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/213190005,ItsJustJordan94
+no exception,2,9,abc-open,malikwilliamson,0,434,1310,2016/05/18 04:36:59 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/227603777,malik williamson
+no exception,2,10,abc-open,carolynalexoxo,0,879,1899,2016/05/10 16:54:46 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/180113624,carolynalexoxo
+no exception,2,11,abc-open,user-984076338,1,6,32,2016/11/01 10:41:20 +0000,0,Pro Unlimited,2,0,0,9,https://api.soundcloud.com/users/212984587,Burton Media
+no exception,2,12,abc-open,jed-heyman,0,10,161,2014/09/01 02:57:57 +0000,0,Free,12,0,4,0,https://api.soundcloud.com/users/53538212,Jed Heyman
+no exception,2,13,abc-open,jahh2x,0,666,1942,2016/05/10 21:44:03 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/213180212,avrilsmeltzer
+no exception,2,14,abc-open,dennardrose,0,406,853,2016/05/18 21:57:37 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/227511377,Dennard Rose
+no exception,2,15,abc-open,mpavilion,0,90,97,2016/10/23 23:04:35 +0000,0,Pro Unlimited,4,0,1,159,https://api.soundcloud.com/users/116149650,MPavilion
+no exception,2,16,abc-open,maddoxjarredbrody,0,35,302,2016/09/06 15:16:45 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/252642230,maddoxjarredbrody
+no exception,2,17,abc-open,justanotherjulie,0,785,1426,2016/05/27 11:17:46 +0000,0,Free,0,0,0,1,https://api.soundcloud.com/users/210930378,Justanotherjulie
+no exception,2,18,abc-open,destinypatton,0,457,1225,2016/05/15 20:11:30 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/227162294,destiny patton
+no exception,2,19,abc-open,aboutdavidmilbergdds,0,28,563,2016/05/10 18:26:14 +0000,0,Free,0,0,87,0,https://api.soundcloud.com/users/210088924,AboutDavidMilbergDDS
+no exception,2,20,abc-open,ayman-alashwal,0,14,482,2016/08/14 10:37:54 +0000,0,Free,2,0,0,0,https://api.soundcloud.com/users/247319769,Ayman Alashwal
+no exception,2,21,abc-open,noideakate,0,789,1914,2016/04/24 22:34:29 +0000,0,Free,0,0,0,3,https://api.soundcloud.com/users/206569919,noideakate
+no exception,2,22,abc-open,user-892599750,6,717,1054,2016/08/15 18:42:42 +0000,0,Free,1,0,32,1,https://api.soundcloud.com/users/240166180,Ulysses II
+no exception,2,23,abc-open,feed-the-kitty,37,402,1586,2016/12/21 07:20:25 +0000,0,Free,5,0,3,39,https://api.soundcloud.com/users/143761014,Feed The Kitty
+no exception,2,24,abc-open,jameswashingtonx,0,384,1373,2016/06/08 04:55:41 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/232388062,James Washingtonx
+no exception,2,25,abc-open,veronikatraynor,0,482,1914,2016/06/08 22:40:10 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/232551160,Veronika Traynor
+no exception,2,26,abc-open,calium_haley,0,980,1615,2016/05/05 11:08:30 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/180111444,calium_haley
+no exception,2,27,abc-open,ohetidunuza,0,29,331,2016/09/06 00:09:21 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/252505709,ohetidunuza
+no exception,2,28,abc-open,xjesscummings0,0,683,1651,2016/05/16 15:21:35 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/186998855,XJesscummings0
+no exception,2,29,abc-open,jacbowie,2,144,363,2016/08/30 03:11:43 +0000,0,Free,5,0,0,24,https://api.soundcloud.com/users/3187104,jacbowie
+no exception,2,30,abc-open,sam-peter-music,0,17,48,2016/06/26 05:36:47 +0000,0,Free,0,0,1,7,https://api.soundcloud.com/users/18288570,Sam Peter Music
+no exception,2,31,abc-open,ekaidon,0,29,652,2015/09/20 14:17:58 +0000,0,Free,7,0,14,13,https://api.soundcloud.com/users/29077189,ekaidon
+no exception,2,32,abc-open,sue-b-10,0,3,13,2015/02/27 12:19:37 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/125133598,Sue B
+no exception,2,33,abc-open,harshal-wagle,0,7,82,2015/01/28 06:15:53 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/135403948,Harshal Wagle
+no exception,2,34,abc-open,bruce-bylsma,0,1,1,2015/12/01 04:18:43 +0000,0,Free,2,0,0,3,https://api.soundcloud.com/users/190223448,Bruce Bylsma
+no exception,2,35,abc-open,user-13495224,2,1,6,2016/06/18 12:07:41 +0000,0,Free,0,0,0,2,https://api.soundcloud.com/users/229223718,Cassey Bling
+no exception,2,36,abc-open,danielle-miller-583907484,0,7,77,2016/05/24 19:22:47 +0000,0,Free,1,0,3,0,https://api.soundcloud.com/users/229276694,Danielle Miller
+no exception,2,37,abc-open,user-108009830,0,0,1,2016/09/13 07:25:48 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/254235460,Simone O
+no exception,2,38,abc-open,maree-odwyer,0,2,3,2016/11/28 02:01:27 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/271182988,Maree O'Dwyer
+no exception,2,39,abc-open,darrenguthrieau,11,79,118,2016/04/20 04:51:43 +0000,0,Free,4,0,1,21,https://api.soundcloud.com/users/3104029,Guthrie
+no exception,2,40,abc-open,jimmymaidacloc,1,5,4,2015/12/19 22:04:33 +0000,0,Free,0,0,0,14,https://api.soundcloud.com/users/56102654,Jimmymaidacloc
+no exception,2,41,abc-open,tbodley,1,0,22,2014/04/23 21:03:29 +0000,0,Free,2,0,1,0,https://api.soundcloud.com/users/90942235,tbodley
+no exception,2,42,abc-open,mohamed-galal-225,1,0,5,2014/10/15 08:48:59 +0000,0,Free,0,0,5,0,https://api.soundcloud.com/users/95733415,mohamed galal 215
+no exception,2,43,abc-open,sherif-bastamy,0,0,3,2015/01/06 00:55:30 +0000,0,Free,1,0,1,0,https://api.soundcloud.com/users/131537748,Sherif Bastamy
+no exception,2,44,abc-open,tillsta,15,29,113,2016/10/16 08:19:19 +0000,0,Free,1,0,95,26,https://api.soundcloud.com/users/149122966,Tillsta
+no exception,2,45,abc-open,miso-scoop,0,6,18,2016/05/21 12:36:15 +0000,0,Free,0,0,0,7,https://api.soundcloud.com/users/214747133,Miso Scoop
+no exception,2,46,abc-open,dan0-007,0,1,9,2016/10/07 22:33:58 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/215900615,dan
+no exception,2,47,abc-open,crowdqast,0,40,496,2016/04/29 03:53:52 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/221290070,CrowdQast
+no exception,2,48,abc-open,espinozaweaver2931,0,16,719,2016/09/15 04:49:21 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/254198802,EspinozaWeaver2931
+no exception,2,49,abc-open,martha-bea,0,0,1,2016/03/08 23:36:41 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/210912993,Martha Bea
+no exception,2,50,abc-open,1233newcastle,64,827,13,2016/11/25 23:18:14 +0000,0,Pro Unlimited,92,0,4,3285,https://api.soundcloud.com/users/18277976,1233newcastle
+no exception,2,51,abc-open,musicwa,2,640,253,2016/11/01 00:07:15 +0000,0,Pro Unlimited,37,0,2,359,https://api.soundcloud.com/users/1436536,WAM
+no exception,2,52,abc-open,abcsplasheducation,0,22,48,2015/11/18 03:06:38 +0000,0,Pro Unlimited,0,0,0,16,https://api.soundcloud.com/users/94673289,ABC Splash
+no exception,2,53,abc-open,danstuckey,40,644,1504,2016/10/21 18:28:04 +0000,0,Free,0,0,2,57,https://api.soundcloud.com/users/1554948,danstuckey
+no exception,2,54,abc-open,home-living-brent,1,5,70,2014/12/31 19:08:07 +0000,0,Free,0,0,4,10,https://api.soundcloud.com/users/24190650,Home Living Brent
+no exception,2,55,abc-open,abc-great-southern,0,44,25,2015/09/16 01:39:11 +0000,0,Pro Unlimited,0,0,0,58,https://api.soundcloud.com/users/53560034,ABC Great Southern
+no exception,2,56,abc-open,profedenglish,1,3,79,2016/02/29 10:40:23 +0000,0,Free,7,0,0,0,https://api.soundcloud.com/users/89705319,profedenglish
+no exception,2,57,abc-open,mrdaverobbo,17,35,22,2016/01/07 06:57:51 +0000,0,Free,2,0,22,30,https://api.soundcloud.com/users/33828259,mrdaverobbo
+no exception,2,58,abc-open,belairjo,351,65,346,2016/12/27 08:12:05 +0000,0,Free,16,0,314,1,https://api.soundcloud.com/users/10187212,J
+no exception,2,59,abc-open,susan-rattray,19,5,73,2015/08/24 08:56:45 +0000,0,Free,14,0,6,1,https://api.soundcloud.com/users/11394958,Susan Rattray
+no exception,2,60,abc-open,mamed,82,370,1920,2016/11/24 19:06:25 +0000,0,Free,0,0,0,22,https://api.soundcloud.com/users/998559,M.A.M.E.D
+no exception,2,61,abc-open,patient-little-sister,1,192,225,2016/04/07 06:14:48 +0000,0,Free,0,0,0,12,https://api.soundcloud.com/users/4501625,Patient Little Sister
+no exception,2,62,abc-open,abc-radio-victoria,1,237,6,2016/04/18 07:45:28 +0000,0,Pro Unlimited,8,0,0,494,https://api.soundcloud.com/users/51279006,ABC Radio Victoria
+no exception,2,63,abc-open,byrnibowl,0,15,29,2016/04/17 11:07:33 +0000,0,Free,0,0,5,29,https://api.soundcloud.com/users/125105768,Conor Byrne
+no exception,2,64,abc-open,zetzero,6,43,286,2016/10/29 15:15:27 +0000,0,Free,1,0,46,16,https://api.soundcloud.com/users/1646184,zetzero
+no exception,2,65,abc-open,meghan-woods,0,8,29,2016/11/01 05:59:20 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/11878631,Meghan Woods
+no exception,2,66,abc-open,ramy-essam-eldin-galal,2,31,73,2014/05/13 14:53:41 +0000,0,Free,13,0,27,0,https://api.soundcloud.com/users/15636433,Ramy Essam Eldin Galal
+no exception,2,67,abc-open,user981415326,0,0,4,2014/11/02 00:51:36 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/34505073,user981415326
+no exception,2,68,abc-open,user479257181,1,2,1,2014/10/01 03:55:50 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/58035903,user479257181
+no exception,2,69,abc-open,user153307322,0,9,74,2013/11/14 02:39:18 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/65437708,user153307322
+no exception,2,70,abc-open,flora-the-cat,0,0,4,2015/06/28 12:00:11 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/77860936,Flora the cat
+no exception,2,71,abc-open,ted-bassingthwaighte,1,3,3,2014/02/04 05:07:03 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/78574971,Ted Bassingthwaighte
+no exception,2,72,abc-open,yarra-bicycle-users-group,0,8,75,2016/09/02 07:11:38 +0000,0,Free,1,0,1,4,https://api.soundcloud.com/users/116040131,Yarra Bicycle Users Group
+no exception,2,73,abc-open,user-51848531,0,1,3,2016/02/29 17:42:15 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/209274095,User 51848531
+no exception,2,74,abc-open,rod3000,7,77,172,2016/04/12 04:02:03 +0000,0,Free,4,0,0,1,https://api.soundcloud.com/users/3055291,rod3000
+no exception,2,75,abc-open,banditfilmz,1,33,43,2012/08/08 14:20:44 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/3364223,BanditFilmz
+no exception,2,76,abc-open,victoriahr,0,2,3,2014/05/23 11:23:15 +0000,0,Free,1,0,1,0,https://api.soundcloud.com/users/9252230,victoriahr
+no exception,2,77,abc-open,richard-de-martin,1,14,59,2015/09/21 11:54:52 +0000,0,Free,0,0,0,1,https://api.soundcloud.com/users/24595789,Richard De Martin
+no exception,2,78,abc-open,abc-open-southeastnsw,0,22,3,2016/10/21 02:32:38 +0000,0,Free,1,0,0,15,https://api.soundcloud.com/users/42152021,ABC Open South East NSW
+no exception,2,79,abc-open,bernadette-nunn,0,155,25,2016/11/15 23:10:49 +0000,0,Free,5,0,1,3,https://api.soundcloud.com/users/42233771,Bernadette Nunn
+no exception,2,80,abc-open,radiotraining,1,14,113,2014/11/03 01:12:37 +0000,0,Free,0,0,0,4,https://api.soundcloud.com/users/59296417,RadioTraining
+no exception,2,81,abc-open,johner-5,0,1,2,2016/01/01 04:03:22 +0000,0,Free,0,0,0,4,https://api.soundcloud.com/users/107476217,Johnr
+no exception,2,82,abc-open,koshka-6,0,1,43,2015/05/18 11:21:14 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/153522176,koshka
+no exception,2,83,abc-open,user-433011754,0,8,53,2016/04/14 01:50:48 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/187874909,Lee-Anne
+no exception,2,84,abc-open,peckthechoc,1,36,15,2015/10/17 13:43:20 +0000,0,Free,0,0,0,6,https://api.soundcloud.com/users/4043593,peckthechoc
+no exception,2,85,abc-open,killinnosense79,0,52,357,2014/10/31 16:03:43 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/4789668,Killinnosense79
+no exception,2,86,abc-open,deanewilliams,0,5,30,2014/01/26 09:38:58 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/6001729,Deane Williams
+no exception,2,87,abc-open,michael-bromage,8,20,67,2015/03/19 00:51:50 +0000,0,Free,1,0,0,44,https://api.soundcloud.com/users/32205089,Michael Bromage
+no exception,2,88,abc-open,redlory,0,2,25,2013/04/29 04:05:26 +0000,0,Free,3,0,0,0,https://api.soundcloud.com/users/43218340,redlory
+no exception,2,89,abc-open,abcopeneastkimberley,0,6,5,2013/04/30 03:03:44 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/43311097,ABCOPENeastkimberley
+no exception,2,90,abc-open,leona-devaz-1,1,15,138,2016/10/27 23:26:36 +0000,0,Free,7,0,0,3,https://api.soundcloud.com/users/75124373,Leona Devaz
+no exception,2,91,abc-open,lindseygreen,0,31,291,2016/11/27 21:35:33 +0000,0,Free,10,0,85,18,https://api.soundcloud.com/users/78833831,Lindsey J Green
+no exception,2,92,abc-open,naomioconnell,0,1,14,2014/05/01 04:30:01 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/92318109,naomioconnell
+no exception,2,93,abc-open,abc-open-gold-coast,0,7,11,2015/09/01 03:53:01 +0000,0,Free,0,0,0,3,https://api.soundcloud.com/users/143661840,ABC Open Gold Coast
+no exception,2,94,abc-open,nixong-1,0,1,47,2013/08/06 20:34:56 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/53410283,nixong
+no exception,2,95,abc-open,abc-open-northern-tas,1,14,20,2016/04/13 07:55:16 +0000,0,Free,0,0,2,6,https://api.soundcloud.com/users/53435896,ABC Open Northern TAS
+no exception,2,96,abc-open,nicolereneelee,0,2,14,2013/10/31 02:01:42 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/64398993,nicolereneelee
+no exception,2,97,abc-open,user161424017,0,0,10,2015/11/20 07:18:28 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/77753093,user161424017
+no exception,2,98,abc-open,elysiaruttley-1,0,1,6,2014/11/17 00:49:43 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/123329398,elysiaruttley
+no exception,2,99,abc-open,user281503632,0,1,54,2015/03/29 02:44:40 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/145563563,user281503632
+no exception,2,100,abc-open,brontideaether,9,45,136,2016/12/26 06:34:29 +0000,0,Free,1,0,2,0,https://api.soundcloud.com/users/9842657,BrontideAether
+no exception,2,101,abc-open,luke-wong1,1,13,12,2016/10/31 04:46:27 +0000,0,Free,0,0,0,31,https://api.soundcloud.com/users/110423595,Luke Wong
+no exception,2,102,abc-open,medicinalherbs,1,8,120,2015/08/28 18:15:37 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/16339791,medicinalherbs
+no exception,2,103,abc-open,936-abc-hobart,4,693,52,2016/10/26 22:41:48 +0000,0,Pro Unlimited,3,0,1,2881,https://api.soundcloud.com/users/41970654,936 ABC Hobart
+no exception,2,104,abc-open,abcfarnorth,0,261,23,2016/11/03 05:47:27 +0000,0,Pro Unlimited,1,0,0,1014,https://api.soundcloud.com/users/52787083,ABC Far North
+no exception,2,105,abc-open,tsdsound,0,79,186,2016/10/27 04:21:47 +0000,0,Pro Unlimited,8,0,0,156,https://api.soundcloud.com/users/7560845,TSDsound
+no exception,2,106,abc-open,abc-open-central-victoria,0,26,31,2016/10/25 07:03:41 +0000,0,Free,0,0,1,48,https://api.soundcloud.com/users/21270087,ABC Open Central Victoria
+no exception,2,107,abc-open,mishasoul,2,238,558,2015/03/21 16:26:36 +0000,0,Free,1,0,0,29,https://api.soundcloud.com/users/6590958,mishasoul
+no exception,2,108,abc-open,42en0480ejnu,0,9,871,2016/12/06 18:30:59 +0000,0,Free,0,0,10,0,https://api.soundcloud.com/users/188421025,User 634953867
+no exception,2,109,abc-open,lenatunes,26,372,1126,2015/12/13 18:36:26 +0000,0,Free,3,0,0,52,https://api.soundcloud.com/users/2140556,Lena Tufenkjian
+no exception,2,110,abc-open,abcwidebay,0,169,104,2016/12/19 00:51:45 +0000,0,Pro Unlimited,11,0,40,634,https://api.soundcloud.com/users/48479238,ABC Wide Bay
+no exception,2,111,abc-open,renitzc,12,98,1326,2016/03/25 05:28:43 +0000,0,Free,0,0,112,11,https://api.soundcloud.com/users/51172468,dʒəbrɒn...
+no exception,2,112,abc-open,kellibrett,26,46,60,2016/10/24 03:39:15 +0000,0,Pro Unlimited,0,0,1,55,https://api.soundcloud.com/users/47342210,KelliBrett
+no exception,2,113,abc-open,spunstories,0,44,16,2016/06/10 02:44:01 +0000,0,Pro Unlimited,3,0,0,63,https://api.soundcloud.com/users/142164761,SPUN
+no exception,2,114,abc-open,lgaq,0,6,14,2016/10/26 00:50:11 +0000,0,Pro Unlimited,0,0,0,17,https://api.soundcloud.com/users/99473617,LGAQ
+no exception,2,115,abc-open,lytsband,0,304,1137,2016/01/29 14:21:56 +0000,0,Free,2,0,5,19,https://api.soundcloud.com/users/84882884,LYTS
+no exception,2,116,abc-open,amp-arts,1,109,387,2014/02/21 02:13:10 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/80909441,AMP Arts
+no exception,2,117,abc-open,lodge-2,243,72,91,2016/10/21 23:50:04 +0000,0,Free,3,0,0,30,https://api.soundcloud.com/users/4901652,Iodge listening post CC
+no exception,2,118,abc-open,benhr,4,60,117,2016/03/07 08:49:45 +0000,0,Free,0,0,1,14,https://api.soundcloud.com/users/4020811,benhr
+no exception,2,119,abc-open,abc-western-queensland,1,223,29,2016/10/11 20:55:45 +0000,0,Pro Unlimited,5,0,2,723,https://api.soundcloud.com/users/44211189,ABC Western Queensland
+no exception,2,120,abc-open,musicfighter,2,7,209,2014/09/24 11:19:20 +0000,0,Free,0,0,1,1,https://api.soundcloud.com/users/16300097,Musicfighter
+no exception,2,121,abc-open,ali-ramsay,0,50,153,2015/03/15 19:19:05 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/18119535,Miss_Flowerpots
+no exception,2,122,abc-open,yowsers,3,23,100,2013/04/04 04:02:18 +0000,0,Free,0,0,2,1,https://api.soundcloud.com/users/20010451,Yowsers
+no exception,2,123,abc-open,jo-hibberd,0,3,4,2015/10/17 22:42:35 +0000,0,Free,2,0,0,0,https://api.soundcloud.com/users/31264439,Jo Hibberd
+no exception,2,124,abc-open,kiki-ckk,0,15,254,2014/02/16 06:13:07 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/32299424,KiKi Ckk
+no exception,2,125,abc-open,susan-standen,1,13,104,2016/11/10 03:47:04 +0000,0,Free,2,0,1,11,https://api.soundcloud.com/users/64949300,Susan Standen
+no exception,2,126,abc-open,story-store,0,5,49,2013/12/05 00:15:15 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/69165616,Story Store
+no exception,2,127,abc-open,user773082461,0,2,73,2016/11/22 07:45:32 +0000,0,Free,0,0,4,0,https://api.soundcloud.com/users/79821611,user773082461
+no exception,2,128,abc-open,user-312121919,0,1,5,2015/12/04 23:45:25 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/191030630,jennifer11b
+no exception,2,129,abc-open,user-760559658,0,17,151,2015/12/10 06:01:22 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/192170588,TADES6 FONSECA6
+no exception,2,130,abc-open,rkh1981,1,10,223,2016/11/03 12:52:53 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/24640358,rkh1981
+no exception,2,131,abc-open,anthony-gherghetta,1,10,28,2015/01/29 01:43:35 +0000,0,Free,2,0,0,11,https://api.soundcloud.com/users/32437005,Anthony Gherghetta
+no exception,2,132,abc-open,abcopen-southcoast-wa,0,26,23,2016/10/21 09:03:09 +0000,0,Free,2,0,1,29,https://api.soundcloud.com/users/34960097,ABC Open Great Southern
+no exception,2,133,abc-open,shelley-lloyd-abc,0,26,41,2013/11/24 22:16:29 +0000,0,Free,0,0,8,2,https://api.soundcloud.com/users/52079972,Shelley Lloyd ABC
+no exception,2,134,abc-open,daniel-abcopen-riverland,0,9,1,2015/08/27 03:37:29 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/60637106,Daniel AbcOpen Riverland
+no exception,2,135,abc-open,carrie-mayne,0,3,6,2013/10/28 09:39:35 +0000,0,Free,3,0,0,0,https://api.soundcloud.com/users/63980707,Carrie Mayne
+no exception,2,136,abc-open,liz_bradshaw,0,3,12,2013/12/13 04:30:52 +0000,0,Free,1,0,0,1,https://api.soundcloud.com/users/70230168,liz_bradshaw
+no exception,2,137,abc-open,jessicahinchliffe,0,11,36,2016/09/06 02:42:16 +0000,0,Free,2,0,22,8,https://api.soundcloud.com/users/73936554,JessicaHinchliffe
+no exception,2,138,abc-open,catherine-mahony,0,2,2,2015/05/02 11:54:42 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/150870570,Catherine Mahony
+no exception,2,139,abc-open,generationj-podcast,0,18,87,2016/10/26 03:04:39 +0000,0,Pro Unlimited,1,0,0,30,https://api.soundcloud.com/users/175739643,Mojo news
+no exception,2,140,abc-open,alyce_taylor_uow,0,1,1,2011/05/05 06:57:10 +0000,0,Free,0,0,0,2,https://api.soundcloud.com/users/4534726,ALYCE_TAYLOR_UOW
+no exception,2,141,abc-open,natashacann,0,18,18,2014/05/02 04:52:13 +0000,0,Free,0,0,0,1,https://api.soundcloud.com/users/5705983,NatashaCann
+no exception,2,142,abc-open,arianthe,8,8,13,2015/10/01 05:16:14 +0000,0,Free,1,0,0,4,https://api.soundcloud.com/users/26380547,Arianthe
+no exception,2,143,abc-open,paul-j-french,16,8,32,2012/10/23 18:36:18 +0000,0,Free,0,0,0,7,https://api.soundcloud.com/users/26764641,Paul J. French
+no exception,2,144,abc-open,dt_downunder,0,12,22,2015/09/02 23:52:51 +0000,0,Free,0,0,0,6,https://api.soundcloud.com/users/26873787,dt_downunder
+no exception,2,145,abc-open,katreeeena,0,36,42,2012/11/25 09:55:42 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/29059486,katreeeena
+no exception,2,146,abc-open,hotel-journalist,3,20,183,2014/10/08 04:37:42 +0000,0,Free,0,0,0,6,https://api.soundcloud.com/users/83668096,Hotel Journalist
+no exception,2,147,abc-open,sharyn-brand,0,5,6,2014/12/10 07:29:06 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/98118325,sharyn brand
+no exception,2,148,abc-open,tracey-preston-5,0,6,1,2015/06/15 06:51:56 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/158199137,Tracey Preston
+no exception,2,149,abc-open,sarah-jacko-750054256,0,1,1,2015/12/19 01:10:19 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/193862214,Sarah Jacko
+no exception,2,150,abc-open,sburke66,1,7,49,2015/12/22 11:42:53 +0000,0,Free,0,0,0,2,https://api.soundcloud.com/users/3921382,Sburke66
+no exception,2,151,abc-open,abcnsw,6,532,50,2016/12/18 23:40:13 +0000,0,Pro Unlimited,69,0,5,3251,https://api.soundcloud.com/users/23146284,ABC NSW
+no exception,2,152,abc-open,mlbernstein,0,36,754,2014/05/19 21:09:02 +0000,0,Free,0,0,3,0,https://api.soundcloud.com/users/36708180,mlbernstein
+no exception,2,153,abc-open,ben-tupas,1,22,24,2015/10/07 11:49:17 +0000,0,Free,1,0,0,35,https://api.soundcloud.com/users/54379537,ABC Open Southern QLD
+no exception,2,154,abc-open,774-abc-melbourne,3,2149,48,2016/09/14 10:14:27 +0000,0,Pro Unlimited,42,0,7,3746,https://api.soundcloud.com/users/51603953,774 ABC Melbourne
+no exception,2,155,abc-open,natfigbar,0,2,222,2016/07/01 14:51:19 +0000,0,Free,0,0,2,1,https://api.soundcloud.com/users/59036762,NatFigBar
+no exception,2,156,abc-open,sunnyelliott,0,20,118,2015/09/08 23:11:52 +0000,0,Free,0,0,3,1,https://api.soundcloud.com/users/116795634,Sunny Elliott
+no exception,2,157,abc-open,ben-millington-3,0,12,3,2014/10/20 04:46:46 +0000,0,Free,0,0,4,6,https://api.soundcloud.com/users/23536530,BenMillington
+no exception,2,158,abc-open,amworldtodaypm,0,163,38,2016/10/17 01:10:33 +0000,0,Pro Unlimited,2,0,0,344,https://api.soundcloud.com/users/108063019,amworldtodaypm
+no exception,2,159,abc-open,louise-love,2,209,576,2016/11/04 22:03:18 +0000,0,Free,3,0,2,24,https://api.soundcloud.com/users/6913814,Louise Love
+no exception,2,160,abc-open,abc-open-broken-hill,0,24,12,2016/11/24 04:08:33 +0000,0,Pro Unlimited,11,0,0,103,https://api.soundcloud.com/users/52367740,ABC Open Broken Hill
+no exception,2,161,abc-open,wayne-krumbach,154,109,1357,2016/06/10 14:32:00 +0000,0,Free,17,0,52,0,https://api.soundcloud.com/users/22498236,Wayne Krumbach
+no exception,2,162,abc-open,buriedalivemanagement,5,156,461,2013/04/03 11:14:12 +0000,0,Free,2,0,1,14,https://api.soundcloud.com/users/8154030,Buriedalivemanagement
+no exception,2,163,abc-open,willkabc,0,14,22,2015/10/22 06:58:12 +0000,0,Free,0,0,1,21,https://api.soundcloud.com/users/60256210,willkopen
+no exception,2,164,abc-open,cfsmtb,0,5,57,2016/01/12 15:31:20 +0000,0,Free,1,0,0,1,https://api.soundcloud.com/users/199041522,cfsmtb
+no exception,2,165,abc-open,ajscully,6,64,28,2015/04/05 07:32:08 +0000,0,Free,4,0,0,33,https://api.soundcloud.com/users/3481429,ajscully
+no exception,2,166,abc-open,jim,15,661,1099,2016/10/22 19:09:10 +0000,0,Pro Unlimited,10,0,247,99,https://api.soundcloud.com/users/5833819,jimcolgan
+no exception,2,167,abc-open,benfawkes,294,9908,2000,2016/11/12 08:58:18 +0000,0,Pro Unlimited,138,0,897,588,https://api.soundcloud.com/users/70505,Ben Fawkes
+no exception,2,168,abc-open,awrd,0,7,32,2015/05/20 11:11:28 +0000,0,Free,1,0,3,2,https://api.soundcloud.com/users/1964605,awrd
+no exception,2,169,abc-open,australian_norwegian,10,38,22,2015/10/07 20:35:31 +0000,0,Free,2,0,1,27,https://api.soundcloud.com/users/5193875,Australian Norwegian
+no exception,2,170,abc-open,wordbiz,0,11,61,2014/10/11 08:24:07 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/15604694,Wordbiz
+no exception,2,171,abc-open,jorgebautista-2,2,0,33,2014/12/04 20:13:14 +0000,0,Free,0,0,0,1,https://api.soundcloud.com/users/16546406,JORGEBAUTISTA
+no exception,2,172,abc-open,serena-j,2,20,75,2014/04/07 04:09:57 +0000,0,Free,0,0,2,0,https://api.soundcloud.com/users/44921295,Serena J
+no exception,2,173,abc-open,abc-overnights,0,31,8,2015/08/18 10:39:29 +0000,0,Free,0,0,0,5,https://api.soundcloud.com/users/48023348,ABC Overnights
+no exception,2,174,abc-open,inkredible_em,2,3,14,2016/09/20 16:02:06 +0000,0,Free,2,0,0,3,https://api.soundcloud.com/users/65527887,Inkredible_EM
+no exception,2,175,abc-open,walterheisenburg,0,96,944,2014/01/05 02:13:50 +0000,0,Free,0,0,4,0,https://api.soundcloud.com/users/73373046,WalterHeisenburg
+no exception,2,176,abc-open,byron-norman,0,4,37,2015/04/12 07:15:33 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/147788235,Byron Norman
+no exception,2,177,abc-open,susanne-kitchener,0,0,1,2015/11/22 02:56:19 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/188346579,Susanne Kitchener
+no exception,2,178,abc-open,organ-grinder,10,151,801,2015/08/27 01:42:40 +0000,0,Free,0,0,18,11,https://api.soundcloud.com/users/1780986,organ grinder
+no exception,2,179,abc-open,hyperion_tapes,80,201,446,2015/08/28 03:05:17 +0000,0,Free,6,0,2,32,https://api.soundcloud.com/users/5292742,//H Y P E R I O N
+no exception,2,180,abc-open,soundcloud-workshop,0,14,75,2012/02/22 00:22:38 +0000,0,Free,0,0,0,13,https://api.soundcloud.com/users/12242688,workshop
+no exception,2,181,abc-open,alanindarwin,0,10,53,2015/09/06 00:29:21 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/26383124,Alan in Darwin
+no exception,2,182,abc-open,kaity-lawrence,0,2,109,2013/07/23 04:08:34 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/51968892,Kaity Lawrence
+no exception,2,183,abc-open,aplacecalledhome-1,0,0,8,2013/07/29 10:56:17 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/52473095,aplacecalledhome
+no exception,2,184,abc-open,ausyoulater,0,2,51,2015/11/14 06:41:16 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/57125643,ausyoulater
+no exception,2,185,abc-open,roxannelawrence,0,146,952,2014/03/07 23:40:56 +0000,0,Free,0,0,3,0,https://api.soundcloud.com/users/76242002,RoxanneLawrence
+no exception,2,186,abc-open,craig-tinsley-791543142,0,0,5,2015/11/15 05:20:02 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/186884436,Craig Tinsley
+no exception,2,187,abc-open,louise-ritchie-87160878,0,2,2,2015/11/22 04:02:06 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/188354623,Louise Ritchie
+no exception,2,188,abc-open,user6356728,1,17,42,2016/10/10 18:57:42 +0000,0,Free,2,0,0,13,https://api.soundcloud.com/users/1631723,GemBauman
+no exception,2,189,abc-open,brianhurst,0,5,27,2016/12/20 00:25:22 +0000,0,Free,1,0,0,32,https://api.soundcloud.com/users/33223172,BrianHurst
+no exception,2,190,abc-open,a-man-apart-drichardson,5,25,54,2016/02/19 15:41:13 +0000,0,Pro Unlimited,1,0,0,24,https://api.soundcloud.com/users/60899444,A Man Apart (DPR)
+no exception,2,191,abc-open,humananimalscience,0,53,24,2014/06/14 13:37:46 +0000,0,Free,0,0,10,7,https://api.soundcloud.com/users/76402791,Human Animal Science
+no exception,2,192,abc-open,grant-morgan-13,0,10,28,2016/06/08 02:00:03 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/96757019,Grant Morgan 13
+no exception,2,193,abc-open,auzzie22314,0,0,7,2016/08/14 18:07:08 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/106932282,Auzzie22314
+no exception,3,1,thebradcarter,86021r,0,4,192,2014/02/15 15:06:56 +0000,0,Free,5,0,2,0,https://api.soundcloud.com/users/80291859,86021r
+no exception,3,2,thebradcarter,kwat,0,10,3,2016/10/04 17:29:43 +0000,0,Free,1,0,0,28,https://api.soundcloud.com/users/640860,kwat
+no exception,3,3,thebradcarter,user228714806,0,16,683,2015/08/17 05:24:32 +0000,0,Free,0,0,10,0,https://api.soundcloud.com/users/167783776,user228714806
+no exception,3,4,thebradcarter,justinmeader,3,39,102,2016/03/20 18:11:07 +0000,0,Free,2,0,1,21,https://api.soundcloud.com/users/2664137,Justin Meader
+no exception,3,5,thebradcarter,maiahwynne,5,41,88,2016/04/21 08:17:47 +0000,0,Free,1,0,1,15,https://api.soundcloud.com/users/65335469,MaiahWynne
+no exception,3,6,thebradcarter,loveskidj,12,215,414,2016/05/04 05:58:26 +0000,0,Free,0,0,1,5,https://api.soundcloud.com/users/455330,K Loveski
+no exception,3,7,thebradcarter,studioste,23,30,21,2016/01/23 21:14:14 +0000,0,Free,5,0,1,30,https://api.soundcloud.com/users/3225469,Studioste
+no exception,3,8,thebradcarter,blizz-3,1,14,8,2016/03/03 13:51:19 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/4592953,Blizzke
+no exception,3,9,thebradcarter,mikeipedia,5,14,39,2016/02/14 22:33:03 +0000,0,Free,1,0,13,0,https://api.soundcloud.com/users/24369506,Mikeipedia
+no exception,3,10,thebradcarter,annie-wood-3,0,47,106,2014/11/20 17:54:42 +0000,0,Free,1,0,0,5,https://api.soundcloud.com/users/33132422,annie wood
+no exception,3,11,thebradcarter,heather-faith-easler-stokes,0,10,1,2016/04/26 15:48:08 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/52351623,Heather Easler-Stokes
+no exception,3,12,thebradcarter,katu_sc,0,2,29,2015/08/21 14:29:00 +0000,0,Free,0,0,0,2,https://api.soundcloud.com/users/54032480,katu_sc
+no exception,3,13,thebradcarter,monica-clay-624540553,0,1,1,2015/12/31 01:23:07 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/196546157,Monica Clay
+no exception,3,14,thebradcarter,user-142194753,0,0,3,2016/01/08 14:48:22 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/197950793,houstonrogers
+no exception,3,15,thebradcarter,hector-gomez-mieggi,0,0,1,2016/10/17 15:42:18 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/262208664,Hector Gomez Mieggi
+no exception,3,16,thebradcarter,evilrobert,9,33,144,2016/03/11 23:57:56 +0000,0,Free,1,0,5,1,https://api.soundcloud.com/users/2473318,evilrobert
+no exception,3,17,thebradcarter,danielle-dissmore,3,76,18,2016/03/28 23:43:00 +0000,0,Free,1,0,0,7,https://api.soundcloud.com/users/11204918,Danielle Dissmore
+no exception,3,18,thebradcarter,lester-rottenfeld,0,12,5,2015/03/05 21:48:01 +0000,0,Free,2,0,1,0,https://api.soundcloud.com/users/31380635,Lester Rottenfeld
+no exception,3,19,thebradcarter,mario-meier-6,0,6,19,2015/09/15 17:51:44 +0000,0,Free,1,0,1,0,https://api.soundcloud.com/users/43124449,mario.meier
+no exception,3,20,thebradcarter,susie-gaskins,1,15,8,2015/03/11 16:30:50 +0000,0,Free,0,0,3,0,https://api.soundcloud.com/users/47315462,Susie Gaskins
+no exception,3,21,thebradcarter,jay-armitage,0,2,1,2015/12/26 20:11:06 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/48480987,Jay Armitage 1
+no exception,3,22,thebradcarter,charlotte-keel-watson,0,0,1,2015/12/26 22:38:39 +0000,0,Free,0,0,2,0,https://api.soundcloud.com/users/195636013,Charlotte Keel Watson
+no exception,3,23,thebradcarter,user-398874066,0,0,2,2015/12/27 05:57:00 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/195698411,User 398874066
+no exception,3,24,thebradcarter,user-630046552,0,1,1,2015/12/31 14:46:25 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/196640537,User 630046552
+no exception,3,25,thebradcarter,susana-i-caro,0,2,4,2016/01/02 22:08:34 +0000,0,Free,15,0,1,0,https://api.soundcloud.com/users/197111519,Susana I. Caro
+no exception,3,26,thebradcarter,megalomanium,3,7,24,2016/02/25 16:10:10 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/40076479,Meghan Fox
+no exception,3,27,thebradcarter,bbboy20-1,12,4,60,2016/02/20 05:23:09 +0000,0,Free,1,0,1,0,https://api.soundcloud.com/users/41763999,BBBoy20
+no exception,3,28,thebradcarter,laudiaean,0,13,496,2016/04/15 13:17:09 +0000,0,Free,0,0,9,0,https://api.soundcloud.com/users/167888804,Claudia Dean
+no exception,3,29,thebradcarter,stephanie-walker-gibbons,0,1,1,2015/12/31 20:29:29 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/196700831,Stephanie Walker Gibbons
+no exception,3,30,thebradcarter,user-606533467,0,1,1,2016/01/02 01:09:48 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/196930291,User 606533467
+no exception,4,1,bfz,albin0_beezy,8,63,349,2016/01/08 11:49:04 +0000,0,Free,1,0,115,0,https://api.soundcloud.com/users/90734197,Semipixelated
+no exception,4,2,bfz,leonardo_meira,10,89,227,2015/09/18 15:48:52 +0000,0,Free,0,0,17,0,https://api.soundcloud.com/users/4441137,Leo Meira
+no exception,4,3,bfz,rossanotorre,16,212,1962,2016/04/26 16:10:05 +0000,0,Free,0,0,0,15,https://api.soundcloud.com/users/74917324,Rossano Torre Pianist
+no exception,4,4,bfz,coreen-morsink,17,71,69,2016/10/26 12:49:35 +0000,0,Free,1,0,3,15,https://api.soundcloud.com/users/6798026,Coreen Morsink
+no exception,4,5,bfz,akosnagy,0,124,39,2016/11/30 21:40:20 +0000,0,Free,0,0,2,21,https://api.soundcloud.com/users/5697071,Akos Nagy
+no exception,4,6,bfz,sarolta-eoris,0,2,17,2016/07/23 16:14:11 +0000,0,Free,0,0,0,17,https://api.soundcloud.com/users/39405512,sarolta eorsi
+no exception,4,7,bfz,or-finned,0,61,434,2016/03/12 20:35:16 +0000,0,Free,4,0,0,3,https://api.soundcloud.com/users/91382099,orfinned
+no exception,4,8,bfz,aminulik,0,11,93,2015/12/30 21:41:41 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/142702872,Aminul Islam
+no exception,4,9,bfz,cecilia-emilia-sala,3,59,735,2016/10/02 09:10:05 +0000,0,Free,0,0,0,4,https://api.soundcloud.com/users/32772452,Cecilia Sala
+no exception,4,10,bfz,angyalg,0,37,115,2016/10/12 13:46:54 +0000,0,Free,1,0,78,0,https://api.soundcloud.com/users/6236365,Gergő Angyal
+no exception,4,11,bfz,mostafa-s-makkiah,1,75,185,2016/12/17 21:18:22 +0000,0,Free,0,0,234,0,https://api.soundcloud.com/users/55174552,Mostafa S. Makkiah
+no exception,4,12,bfz,xjasx,11,406,2003,2016/12/05 09:15:56 +0000,0,Free,1,0,0,19,https://api.soundcloud.com/users/32963654,xJASx
+no exception,4,13,bfz,zveneczi,14,29,38,2015/11/15 12:38:38 +0000,0,Pro,0,0,0,39,https://api.soundcloud.com/users/12742,zveneczi
+no exception,4,14,bfz,bkrcz,178,76,391,2016/11/01 20:50:09 +0000,0,Free,10,0,207,0,https://api.soundcloud.com/users/6164503,bkrcz
+no exception,4,15,bfz,ruthm123,3,118,815,2016/12/28 15:16:31 +0000,0,Free,2,0,530,0,https://api.soundcloud.com/users/89228421,RuthMcCutcheon
+no exception,4,16,bfz,velopodmusic,367,517,532,2016/07/07 21:27:55 +0000,0,Pro,2,0,13,166,https://api.soundcloud.com/users/15477322,Velopod
+no exception,4,17,bfz,randala,0,240,2000,2016/12/18 10:59:17 +0000,0,Free,2,0,0,12,https://api.soundcloud.com/users/7475742,NMDOAO
+no exception,4,18,bfz,nonna-yuryevna,1,342,1613,2016/03/13 13:31:00 +0000,0,Free,105,0,10055,0,https://api.soundcloud.com/users/119996408,@NunufarH
+no exception,4,19,bfz,papi91,53,174,706,2016/10/16 09:18:02 +0000,0,Free,8,0,9,0,https://api.soundcloud.com/users/631205,papi91
+no exception,4,20,bfz,tuqaalsarraj,4,24,35,2016/06/10 12:09:29 +0000,0,Free,32,0,6,4,https://api.soundcloud.com/users/153008913,Tuqa Al-Sarraj
+no exception,4,21,bfz,kispetho,4,24,164,2016/10/31 22:12:41 +0000,0,Free,0,0,6,0,https://api.soundcloud.com/users/5594893,kispetho
+no exception,4,22,bfz,edina-varga,0,10,28,2016/01/14 16:32:22 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/11510162,Edina Varga
+no exception,4,23,bfz,mahan-bastani-parizi,0,95,67,2015/08/20 08:43:32 +0000,0,Free,0,0,10,0,https://api.soundcloud.com/users/19076416,Mahan Bastani Parizi
+no exception,4,24,bfz,istv-n-g-l-6,0,0,26,2016/09/27 11:34:12 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/66566645,István Gál 6
+no exception,4,25,bfz,tmnetworks,0,21,212,2016/04/22 05:08:41 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/107503448,TM_Networks
+no exception,4,26,bfz,gang-china-lu,0,0,3,2015/11/05 01:19:38 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/184793784,Gang-china Lu
+no exception,4,27,bfz,paml-870758423,0,3,9,2016/02/05 16:41:25 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/193200057,Paml
+no exception,4,28,bfz,vrarikaasakivembrika91,0,0,13,2016/08/24 15:24:45 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/207895673,vra91-rikaasakivembrika91
+no exception,4,29,bfz,user-374291246,0,5,19,2016/07/17 18:39:11 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/241153457,Vadym
+no exception,4,30,bfz,user-474586739,0,1,1,2016/12/06 10:09:35 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/273107822,fdsamano
+no exception,4,31,bfz,bence_szemerey,11,28,69,2016/10/15 22:52:38 +0000,0,Free,0,0,1,3,https://api.soundcloud.com/users/154252,Bence Szemerey
+no exception,4,32,bfz,dyqha5wwvfma,0,2,12,2015/07/06 17:53:48 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/81198318,user889143707
+no exception,4,33,bfz,malcolm-marlboro,1,8,25,2016/04/10 20:30:51 +0000,0,Free,0,0,1,1,https://api.soundcloud.com/users/97181250,Malcolm Marlboro
+no exception,4,34,bfz,balazs-hunka,0,12,163,2015/09/27 20:41:48 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/107986401,Balazs Hunka
+no exception,4,35,bfz,theunis-bredenkamp,0,14,50,2015/02/04 04:52:30 +0000,0,Free,6,0,2,0,https://api.soundcloud.com/users/136744283,Theunis Bredenkamp
+no exception,4,36,bfz,kirillstgl,0,6,24,2015/08/22 16:01:12 +0000,0,Free,0,0,4,0,https://api.soundcloud.com/users/137032572,кштгл
+no exception,4,37,bfz,zolt-n-f-bi-n-841443150,0,1,2,2015/12/22 13:59:49 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/194575061,Zoltán Fábián
+no exception,4,38,bfz,pichurasta-jer-nimo-ponce-hofmann,0,3,35,2016/04/25 15:45:45 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/222196949,PichuRasta Hofmann
+no exception,4,39,bfz,user-900963548,0,1,6,2016/10/15 10:53:36 +0000,0,Free,2,0,0,0,https://api.soundcloud.com/users/228850555,M
+no exception,4,40,bfz,user-936480859,0,0,1,2016/12/28 15:12:22 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/261467596,Gabriela
+no exception,4,41,bfz,senecaparis3,1,6,30,2016/05/18 14:40:48 +0000,0,Free,1,0,6,3,https://api.soundcloud.com/users/2023145,SenecaParis3
+no exception,4,42,bfz,daszk-l-anett,0,17,101,2016/10/31 11:53:15 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/14105068,Daszkál Anett
+no exception,4,43,bfz,ahmet-sani,28,28,181,2015/10/07 08:34:10 +0000,0,Free,2,0,82,0,https://api.soundcloud.com/users/31985893,DeepofSoul
+no exception,4,44,bfz,wykthory,0,12,44,2016/06/21 16:12:52 +0000,0,Free,20,0,0,2,https://api.soundcloud.com/users/32259520,Wicktheory
+no exception,4,45,bfz,kristofhorvath,0,5,103,2016/10/17 09:59:26 +0000,0,Free,0,0,7,0,https://api.soundcloud.com/users/35886388,kristofhorvath
+no exception,4,46,bfz,lelembelis,0,60,277,2016/11/16 21:33:22 +0000,0,Free,7,0,283,0,https://api.soundcloud.com/users/53468494,lelèmbëlis
+no exception,4,47,bfz,coco-java,0,1,1,2015/12/15 13:09:01 +0000,0,Free,0,0,0,1,https://api.soundcloud.com/users/193205926,Coco Java
+no exception,4,48,bfz,user-160282009,0,0,2,2016/01/10 15:26:05 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/198452818,User 160282009
+no exception,4,49,bfz,andrea-boldizsar,0,2,1,2016/10/04 20:32:43 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/259239430,Andrea Boldizsár
+no exception,4,50,bfz,roland-denes-327142747,0,0,1,2016/10/05 04:12:54 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/259305297,Roland Denes
+no exception,4,51,bfz,thomasmagnumbudapest,15,57,130,2015/10/05 15:11:57 +0000,0,Free,0,0,1,29,https://api.soundcloud.com/users/3417912,thomasmagnumbudapest
+no exception,4,52,bfz,parham-ahmadi-1,74,340,803,2015/12/01 19:07:56 +0000,0,Free,1,0,606,45,https://api.soundcloud.com/users/71705290,parhamahmadi
+no exception,4,53,bfz,southcaucasus-1,2,156,556,2016/10/28 13:38:40 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/10218091,Ralph Hälbig
+no exception,4,54,bfz,shana-enki,4,76,673,2015/08/29 21:14:06 +0000,0,Free,0,0,0,21,https://api.soundcloud.com/users/40424687,Shana Enki
+no exception,4,55,bfz,jan-libby,3,39,130,2016/05/15 15:25:33 +0000,0,Free,0,0,191,3,https://api.soundcloud.com/users/28356523,Jan Libby
+no exception,4,56,bfz,the-english-composer,128,1302,1959,2016/10/14 03:56:38 +0000,0,Pro Unlimited,1,0,1,10,https://api.soundcloud.com/users/31151429,Andrew Webb-Mitchell
+no exception,4,57,bfz,carl-oh,293,1591,1386,2015/10/08 10:15:41 +0000,0,Free,4,0,16,21,https://api.soundcloud.com/users/1158326,Carl Oh
+no exception,4,58,bfz,gbrlla,0,41,93,2016/11/14 18:00:36 +0000,0,Free,1,0,0,7,https://api.soundcloud.com/users/4484354,gbrlla
+no exception,4,59,bfz,vincentsheehan,681,1513,1814,2016/02/17 08:20:59 +0000,0,Free,1,0,0,17,https://api.soundcloud.com/users/4819201,The Royal Vincident
+no exception,4,60,bfz,user585989496,1,14,106,2015/03/05 17:40:12 +0000,0,Free,0,0,19,0,https://api.soundcloud.com/users/135602520,user585989496
+no exception,4,61,bfz,nuno-fernandes-47,0,12,383,2015/07/19 14:13:13 +0000,0,Free,4,0,12,0,https://api.soundcloud.com/users/61840647,Nuno Fernandes 52
+no exception,4,62,bfz,dj_sylvie,30,287,102,2016/05/05 17:50:11 +0000,0,Free,1,0,11,20,https://api.soundcloud.com/users/4482655,DJ Sylvie
+no exception,4,63,bfz,sutinemsuti,0,43,340,2016/06/07 08:01:32 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/3789952,sutinemsuti
+no exception,4,64,bfz,esz-3,1,9,20,2012/07/08 18:40:24 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/19939653,ESz
+no exception,4,65,bfz,akos-horvath-4,0,5,5,2012/12/11 16:45:51 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/30261258,Akos Horvath 6
+no exception,4,66,bfz,tamas-solyom-1,0,26,7,2014/09/09 12:51:46 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/31483039,Tamas Solyom 1
+no exception,4,67,bfz,sd-5-1,0,11,71,2015/10/11 00:49:04 +0000,0,Free,4,0,3,0,https://api.soundcloud.com/users/42519378,sd-5
+no exception,4,68,bfz,user43862030-janschut,2,19,71,2016/01/11 11:38:02 +0000,0,Free,2,0,6,0,https://api.soundcloud.com/users/50464367,user43862030 janschut
+no exception,4,69,bfz,alavari-tomi,0,3,182,2014/11/11 15:32:14 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/74522271,Alavari Tomi
+no exception,4,70,bfz,user995244966,0,2,6,2015/02/09 20:24:04 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/137701281,user995244966
+no exception,4,71,bfz,david-bogaerts-1,0,4,27,2015/05/20 12:13:31 +0000,0,Free,3,0,0,0,https://api.soundcloud.com/users/153796463,david bogaerts
+no exception,4,72,bfz,barbara-187,0,0,5,2015/06/19 05:49:02 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/158413987,Barbara
+no exception,4,73,bfz,bvizi,1,79,468,2016/12/09 14:40:10 +0000,0,Free,0,0,10,75,https://api.soundcloud.com/users/906223,bvizi
+no exception,4,74,bfz,aboviolin,0,60,142,2015/08/27 21:32:36 +0000,0,Free,0,0,2,3,https://api.soundcloud.com/users/5506678,aboviolin
+no exception,4,75,bfz,robert-vos-van,1,10,32,2014/09/04 06:02:45 +0000,0,Free,1,0,14,0,https://api.soundcloud.com/users/14365025,Robert Vos Van
+no exception,4,76,bfz,akinori5,0,10,15,2015/08/25 11:28:54 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/21930162,akinori5
+no exception,4,77,bfz,mfarrokhnejad,1,22,70,2016/11/25 22:03:17 +0000,0,Free,1,0,65,1,https://api.soundcloud.com/users/22526560,Mohammad Farrokhnejad
+no exception,4,78,bfz,headlineposts,0,134,410,2013/02/02 00:10:59 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/27744560,HeadlinePosts
+no exception,4,79,bfz,gautheron-isabelle,0,11,31,2015/09/12 16:39:01 +0000,0,Free,1,0,15,0,https://api.soundcloud.com/users/29848352,ferlosio
+no exception,4,80,bfz,hakimgeorge,1,8,70,2016/05/10 12:32:52 +0000,0,Free,20,0,3,15,https://api.soundcloud.com/users/32437113,Hakim George
+no exception,4,81,bfz,atallah-quader,0,26,15,2015/10/08 15:39:42 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/72760806,Atallah Quader
+no exception,4,82,bfz,lucamohacsi,0,1,19,2015/10/06 17:06:27 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/103565915,lucamohacsi
+no exception,4,83,bfz,dom_ink,13,29,96,2015/11/20 19:01:24 +0000,0,Free,3,0,5,17,https://api.soundcloud.com/users/8105728,Dom.ink
+no exception,4,84,bfz,daren-schlecter,6,61,236,2015/12/19 18:43:59 +0000,0,Free,2,0,4,2,https://api.soundcloud.com/users/11021851,Daren Schlecter
+no exception,4,85,bfz,katalin-sz-ke,0,6,20,2015/01/18 14:22:47 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/11041837,Katalin Szőke
+no exception,4,86,bfz,maringarcia,0,36,52,2016/05/12 18:29:28 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/16854941,Mari Nascimento Garcia
+no exception,4,87,bfz,la-lupacchiotta,0,1,1,2015/09/11 13:20:50 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/30572900,La Lupacchiotta
+no exception,4,88,bfz,robkhit,4,45,775,2015/10/15 20:59:23 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/35849014,robkhit
+no exception,4,89,bfz,artem-zaytsev-1,0,19,55,2015/09/13 10:30:30 +0000,0,Free,0,0,0,4,https://api.soundcloud.com/users/38383229,Artem Zaytsev
+no exception,4,90,bfz,linkinwhark,0,0,46,2015/12/02 09:33:59 +0000,0,Free,1,0,0,1,https://api.soundcloud.com/users/54602704,linkinwhark
+no exception,4,91,bfz,tamas-frey,0,7,38,2015/03/26 15:40:33 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/64893439,Tamas Frey
+no exception,4,92,bfz,sandra-h-956236510,0,0,7,2015/09/19 21:47:57 +0000,0,Free,1,0,0,1,https://api.soundcloud.com/users/172616590,sandra h.
+no exception,4,93,bfz,ashley726,30,168,868,2016/08/23 05:24:02 +0000,0,Free,0,0,18,1,https://api.soundcloud.com/users/1534128,ashleyinsh
+no exception,4,94,bfz,sammy-11,0,3,30,2012/05/02 21:46:38 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/3629697,SammyS
+no exception,4,95,bfz,vacakata,5,3,7,2016/09/16 03:15:02 +0000,0,Free,0,0,5,0,https://api.soundcloud.com/users/23589399,VACAKATA
+no exception,4,96,bfz,ronnie-wayne-shipman,0,14,60,2013/02/12 00:14:04 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/35843071,Ronnie Wayne Shipman
+no exception,4,97,bfz,pkeeet,0,1,22,2016/05/10 14:20:29 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/40061047,pkeeet
+no exception,4,98,bfz,samuel-lima-56,1,15,87,2014/09/01 22:41:42 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/93140953,Samuel Lima 56
+no exception,4,99,bfz,edith-kmetyko,0,0,4,2014/12/28 01:47:05 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/130039400,Edith Kmetyko
+no exception,4,100,bfz,user138320633,0,0,2,2015/06/17 22:58:24 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/158620894,user138320633
+no exception,4,101,bfz,samkest419,67,713,1933,2014/12/16 21:45:08 +0000,0,Free,1,0,1,24,https://api.soundcloud.com/users/5933875,Sammy Ray
+no exception,4,102,bfz,abdullahbayyari,0,560,1170,2016/10/31 10:49:26 +0000,0,Free,0,0,794,1,https://api.soundcloud.com/users/9055023,Abdullah Al Bayyari
+no exception,4,103,bfz,roxana-elkhayat,4,557,189,2014/12/06 01:02:26 +0000,0,Free,29,0,2081,1,https://api.soundcloud.com/users/46707837,Roxana Elkhayat
+no exception,4,104,bfz,jonanu,15,99,630,2016/10/13 18:09:23 +0000,0,Free,1,0,9,3,https://api.soundcloud.com/users/54606393,Johannes
+no exception,4,105,bfz,jonny-stewart-3,15,130,411,2016/11/14 17:19:13 +0000,0,Free,15,0,600,2,https://api.soundcloud.com/users/21577373,JayJay Snoopy Stewart
+no exception,4,106,bfz,hyperbook,1,75,676,2016/06/27 22:52:17 +0000,0,Free,3,0,926,5,https://api.soundcloud.com/users/15594068,hyperbook
+no exception,4,107,bfz,tomejorge,14,433,729,2016/02/11 21:21:04 +0000,0,Free,22,0,1433,0,https://api.soundcloud.com/users/3173769,zensearcher
+no exception,4,108,bfz,juanchi-issou,50,141,1198,2015/11/01 23:47:26 +0000,0,Free,0,0,111,0,https://api.soundcloud.com/users/37427783,Juan Cruz Issouribehere
+no exception,4,109,bfz,pierrebonho,271,168,1117,2016/05/21 15:01:35 +0000,0,Free,6,0,787,0,https://api.soundcloud.com/users/244506,pierrebonho
+no exception,4,110,bfz,emaia3,0,12,94,2016/09/01 06:04:05 +0000,0,Free,3,0,0,0,https://api.soundcloud.com/users/91388565,emaia3
+no exception,4,111,bfz,renata-fractus,14,267,787,2016/11/14 17:08:35 +0000,0,Free,12,0,47,141,https://api.soundcloud.com/users/41807245,Renata Fractus
+no exception,4,112,bfz,kumiko-shinomiya-1,12,16,49,2014/03/13 14:39:36 +0000,0,Free,0,0,0,23,https://api.soundcloud.com/users/20188828,K・S
+no exception,4,113,bfz,kwakumusic,144,334,1342,2016/10/05 00:27:50 +0000,0,Free,0,0,2,3,https://api.soundcloud.com/users/20319337,Kwaku.
+no exception,4,114,bfz,degrap,5,30,140,2016/04/18 09:40:39 +0000,0,Free,4,0,34,0,https://api.soundcloud.com/users/2089767,degrap
+no exception,4,115,bfz,eszespeter,1,25,97,2016/10/14 10:57:31 +0000,0,Free,10,0,9,3,https://api.soundcloud.com/users/3334070,eszespeter
+no exception,4,116,bfz,guillaume-heine,1,91,453,2016/05/10 19:00:10 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/12124421,Guillaume Heine
+no exception,4,117,bfz,msand70,0,0,1,2012/04/21 07:06:10 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/15601112,msand70
+no exception,4,118,bfz,gamai,3,23,35,2015/04/27 18:03:28 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/16599536,Gamaí J.
+no exception,4,119,bfz,iwanharlan,1,40,84,2016/12/18 13:50:17 +0000,0,Free,5,0,6,36,https://api.soundcloud.com/users/25059552,iwan harlan
+no exception,4,120,bfz,tminttomi,0,4,15,2014/12/30 17:11:27 +0000,0,Free,11,0,0,0,https://api.soundcloud.com/users/33152375,tminttomi
+no exception,4,121,bfz,hloe_ooney,0,32,72,2016/08/31 07:06:12 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/80136507,Xxx
+no exception,4,122,bfz,karl-9planetes,95,500,2001,2016/08/02 05:58:57 +0000,0,Free,7,0,0,12,https://api.soundcloud.com/users/106527273,Karl 9planetes *** ***
+no exception,4,123,bfz,mymelodi,0,1,1,2014/11/21 10:41:01 +0000,0,Free,2,0,0,7,https://api.soundcloud.com/users/119338924,mymelodi
+no exception,4,124,bfz,chioma-ebinama,0,24,45,2015/09/25 00:57:04 +0000,0,Free,1,0,10,1,https://api.soundcloud.com/users/12407075,Chioma Ebinama
+no exception,4,125,bfz,mightysparkdesign,20,7,65,2016/06/10 15:12:56 +0000,0,Free,7,0,69,0,https://api.soundcloud.com/users/16558394,Mighty Spark Design
+no exception,4,126,bfz,weasylo,0,16,79,2015/10/28 21:48:11 +0000,0,Free,0,0,4,0,https://api.soundcloud.com/users/17951586,weasylo
+no exception,4,127,bfz,aaron-s-hill,7,54,304,2015/09/25 05:05:12 +0000,0,Free,2,0,2,12,https://api.soundcloud.com/users/30231428,Aaron S. Hill
+no exception,4,128,bfz,erika-salcido,0,7,16,2014/03/08 21:54:09 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/32174706,Erika Salcido
+no exception,4,129,bfz,t-ndi-farkas,0,1,52,2013/12/19 09:09:26 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/39267355,Tündi Farkas
+no exception,4,130,bfz,sameh-esmat,0,17,40,2015/10/27 11:00:25 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/51731731,Sameh Esmat
+no exception,4,131,bfz,brah-m-gabriella,1,13,49,2016/02/19 21:53:35 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/54736551,Ábrahám Gabriella
+no exception,4,132,bfz,victoria-wu-mengqian,2,4,5,2014/01/15 20:51:49 +0000,0,Free,2,0,1,0,https://api.soundcloud.com/users/75344901,Victoria WU Mengqian
+no exception,4,133,bfz,drew-foos,8,8,15,2014/05/26 19:29:33 +0000,0,Free,0,0,0,6,https://api.soundcloud.com/users/89421725,Drew Foos
+no exception,4,134,bfz,jbaclarinet,44,38,13,2012/11/28 10:51:03 +0000,0,Free,0,0,1,5,https://api.soundcloud.com/users/8948308,Blake Arrington
+no exception,4,135,bfz,d-m-ridovics,0,23,126,2015/09/30 00:04:47 +0000,0,Free,1,0,2,0,https://api.soundcloud.com/users/16318817,Ádám Ridovics
+no exception,4,136,bfz,jacopo-parisato,0,50,33,2015/10/15 20:14:58 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/25591028,JakobKorg
+no exception,4,137,bfz,cansukurban,0,15,43,2016/12/16 17:02:25 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/30177764,cansukurban
+no exception,4,138,bfz,miomg,0,5,14,2015/08/31 02:39:20 +0000,0,Free,18,0,182,0,https://api.soundcloud.com/users/35590004,miomg
+no exception,4,139,bfz,aadorr,0,17,15,2015/07/23 14:03:31 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/43232471,aadorr
+no exception,4,140,bfz,eranio-1,4,34,284,2016/03/21 09:39:42 +0000,0,Free,1,0,128,0,https://api.soundcloud.com/users/56124603,Eranio
+no exception,4,141,bfz,doppioslash,0,2,25,2015/09/15 19:29:32 +0000,0,Free,2,0,1,0,https://api.soundcloud.com/users/68510090,doppioslash
+no exception,4,142,bfz,j-nosin-t-r-k-t-nde,0,0,61,2014/01/04 13:02:15 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/73269521,Jánosiné Török Tünde
+no exception,4,143,bfz,alexandria-porter,0,6,8,2015/09/26 14:23:48 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/136280438,Alexandria Porter
+no exception,4,144,bfz,osolle,1,29,131,2016/05/03 19:03:10 +0000,0,Free,0,0,63,0,https://api.soundcloud.com/users/3608101,O'Solle
+no exception,4,145,bfz,piru-gutierrez,0,3,5,2012/09/30 03:46:38 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/25171276,Piru Gutierrez
+no exception,4,146,bfz,theleapshop,1,28,159,2015/10/12 15:04:05 +0000,0,Free,0,0,0,6,https://api.soundcloud.com/users/32159639,The Leap Shop
+no exception,4,147,bfz,balazs-janosi,0,12,58,2016/05/08 08:32:40 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/37276725,Balazs Janosi
+no exception,4,148,bfz,zolt-n-balla-farkas,10,6,47,2016/12/05 20:12:09 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/55291168,Zoltán Balla-Farkas
+no exception,4,149,bfz,attila-v-mos-1,0,0,1,2015/08/17 12:53:07 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/71195218,vamosatti
+no exception,4,150,bfz,michael-z-thureck,0,9,18,2014/11/05 15:11:32 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/76326168,Michael Záthurecký
+no exception,4,151,bfz,giuseppe-silvi,41,146,228,2016/04/16 07:48:08 +0000,0,Free,6,0,22,23,https://api.soundcloud.com/users/2387303,Giuseppe Silvi
+no exception,4,152,bfz,mcs-music,31,57,29,2016/08/16 14:02:59 +0000,0,Free,7,0,0,76,https://api.soundcloud.com/users/8842901,MCS music — Mastering
+no exception,4,153,bfz,masudo,145,247,643,2016/10/21 14:49:59 +0000,0,Free,36,0,49,8,https://api.soundcloud.com/users/29294421,masudo records
+no exception,4,154,bfz,nemcsakrizsa,0,69,4,2016/11/08 10:46:40 +0000,0,Pro Unlimited,307,0,0,1047,https://api.soundcloud.com/users/34276822,gbtimes_Hungary
+no exception,4,155,bfz,misses-swindler,691,520,1670,2015/03/03 18:59:17 +0000,0,Free,10,0,3141,0,https://api.soundcloud.com/users/25182822,Swindl3s
+no exception,4,156,bfz,am_ro,29,84,214,2016/10/15 17:22:47 +0000,0,Free,3,0,59,11,https://api.soundcloud.com/users/13435717,Amr
+no exception,4,157,bfz,rekaibolya,0,152,658,2015/08/19 11:48:50 +0000,0,Free,0,0,596,1,https://api.soundcloud.com/users/6566930,rekaibolya
+no exception,4,158,bfz,themusicoftihomirpetkov,373,3308,1990,2016/12/16 01:54:44 +0000,0,Free,2,0,315,107,https://api.soundcloud.com/users/12222549,Tihomir Petkov Music
+no exception,4,159,bfz,user766640152,2,17,256,2014/10/25 12:43:11 +0000,0,Free,0,0,13,0,https://api.soundcloud.com/users/65814949,user766640152
+no exception,4,160,bfz,incertea,0,174,387,2016/09/08 17:47:01 +0000,0,Free,7,0,0,76,https://api.soundcloud.com/users/323394,Valerio Incerto
+no exception,4,161,bfz,hiroshiichimura,0,4,10,2012/12/22 00:22:17 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/7194300,Hiroshi Ichimura
+no exception,4,162,bfz,roger-relix,46,160,300,2015/08/28 07:27:42 +0000,0,Free,0,0,188,0,https://api.soundcloud.com/users/9294047,Roger Vásquez M
+no exception,4,163,bfz,ajakowski,3,14,36,2016/10/25 17:42:35 +0000,0,Free,8,0,1,0,https://api.soundcloud.com/users/9301843,ajakowski
+no exception,4,164,bfz,gyula-lajho,0,24,18,2016/11/01 15:44:59 +0000,0,Free,0,0,0,6,https://api.soundcloud.com/users/12044191,Gyula Lajho
+no exception,4,165,bfz,astaraza,0,6,17,2013/11/10 00:57:13 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/14907514,astaraza
+no exception,4,166,bfz,imran-bughio,25,26,68,2015/08/18 09:29:03 +0000,0,Free,13,0,84,2,https://api.soundcloud.com/users/25403753,Imran Bughio
+no exception,4,167,bfz,johannes-plambeck,0,9,55,2014/10/13 17:14:10 +0000,0,Free,1,0,0,0,https://api.soundcloud.com/users/30058765,Johannes Plambeck
+no exception,4,168,bfz,pa-ti-7,0,7,48,2015/02/11 20:23:27 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/45807535,Pa Ti 7
+no exception,4,169,bfz,oliver-lewis-16,1,8,41,2015/08/27 08:25:57 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/67710690,olewis75
+no exception,4,170,bfz,raquelpisetta,1,25,5,2015/08/23 13:26:45 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/4446306,raquel-p.
+no exception,4,171,bfz,d-niel-helecz,9,16,67,2014/09/17 12:48:46 +0000,0,Free,0,0,2,0,https://api.soundcloud.com/users/26572042,dancs
+no exception,4,172,bfz,hutiray-borb-la,0,5,7,2014/12/12 07:59:42 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/75506922,Hutiray Borbála
+no exception,4,173,bfz,lmos-t-th,0,7,1,2014/08/20 17:55:16 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/109793459,Álmos Tóth
+no exception,4,174,bfz,pedro-guimar-es-40,2,2,39,2016/06/10 12:33:22 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/119356809,Pedro Guimarães
+no exception,5,1,municipalequation,graham-freer,2,152,1476,2016/07/09 23:04:50 +0000,0,Free,1,0,0,1,https://api.soundcloud.com/users/81956507,Graham Freer
+no exception,5,2,municipalequation,user-273168995,0,184,2000,2016/12/01 14:19:35 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/271938131,Michelle Gordon
+no exception,5,3,municipalequation,user-182956041,0,511,1088,2016/12/03 04:14:00 +0000,0,Pro Unlimited,0,0,9,57,https://api.soundcloud.com/users/213721109,"Mom, I'm Sorry"
+no exception,5,4,municipalequation,user-423575869,0,52,363,2016/09/16 11:37:00 +0000,0,Pro Unlimited,0,0,0,11,https://api.soundcloud.com/users/227376843,A Black Guy and A White Guy Walked Into the Studio
+no exception,5,5,municipalequation,samvburns,0,440,1507,2016/05/26 10:40:53 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/196899020,samvburns
+no exception,5,6,municipalequation,ashlynbarrera,0,430,1995,2016/06/08 02:53:39 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/232373899,Ashlyn Barrera
+no exception,5,7,municipalequation,bmaliha,21,20,734,2016/08/03 14:17:47 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/110802884,bmaliha
+no exception,5,8,municipalequation,pepper-in-the-salt-shaker,113,433,1226,2016/12/22 01:48:19 +0000,0,Pro Unlimited,2,0,449,13,https://api.soundcloud.com/users/260192927,Pepper in the Salt Shaker
+no exception,5,9,municipalequation,the-mockers-podcast,8,459,1029,2016/06/18 23:40:15 +0000,0,Pro Unlimited,0,0,684,31,https://api.soundcloud.com/users/215279498,The Mockers Podcast
+no exception,5,10,municipalequation,press-x-to-jump-podcast,17,719,1326,2016/12/12 07:44:30 +0000,0,Pro Unlimited,0,0,4,78,https://api.soundcloud.com/users/175304656,Press X To Jump Podcast
+no exception,5,11,municipalequation,em_es_doubleu-705961498,0,788,1899,2016/03/24 14:42:44 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/189348281,em_es_doubleu
+no exception,5,12,municipalequation,user-785278230,0,164,2002,2016/12/01 14:19:16 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/271924031,Mary Demaria
+no exception,5,13,municipalequation,jamalfox99,0,350,1706,2016/06/06 13:07:33 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/227511935,Jamal Fox99
+no exception,5,14,municipalequation,cassidybrookeee,0,584,1836,2016/05/15 06:54:32 +0000,0,Free,0,0,0,2,https://api.soundcloud.com/users/211373851,CassidyBrookeee
+no exception,5,15,municipalequation,remarkable-objects,0,36,10,2016/12/12 16:15:02 +0000,0,Pro,0,0,0,7,https://api.soundcloud.com/users/217801143,Remarkable Objects
+no exception,5,16,municipalequation,m-h-661891519,35,473,1577,2016/12/11 12:10:48 +0000,0,Free,1,0,0,35,https://api.soundcloud.com/users/205235349,M&H
+no exception,5,17,municipalequation,gandalf1012886,0,542,1886,2016/05/27 02:58:49 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/212839848,gandalf_1012886
+no exception,5,18,municipalequation,imlilwoobitch,0,412,1896,2016/06/09 06:22:30 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/232624894,Im_lilwoo_bitch
+no exception,5,19,municipalequation,paigeelizabeth168,0,934,1995,2016/05/16 16:18:24 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/180107490,paigeelizabeth168
+no exception,5,20,municipalequation,garwar2010,0,490,1900,2016/05/30 08:53:05 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/212828234,shariwhit3
+no exception,5,21,municipalequation,cordellgibson7,0,241,1618,2016/05/18 22:15:08 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/227505163,Cordell Gibson7
+no exception,5,22,municipalequation,govlove,0,86,4,2016/11/30 19:16:06 +0000,0,Pro Unlimited,0,0,0,98,https://api.soundcloud.com/users/116855785,GovLove
+no exception,5,23,municipalequation,therussellmclainshow,0,49,107,2016/10/01 22:27:35 +0000,0,Free,0,0,10,6,https://api.soundcloud.com/users/238431997,The Russell McLain Show
+no exception,5,24,municipalequation,coledowdalll,0,394,1833,2016/04/18 08:56:23 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/213213114,dawn_f1sher
+no exception,5,25,municipalequation,shannonbananna,0,512,891,2016/01/27 15:59:41 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/196898904,Shannonbananna
+no exception,5,26,municipalequation,steven-whittekiend,0,2,4,2016/12/21 18:53:48 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/16980477,Steven Whittekiend
+no exception,5,27,municipalequation,scott-mooneyham,0,1,2,2014/09/25 00:54:15 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/87026606,Scott Mooneyham
+no exception,5,28,municipalequation,sean-quincey,0,2,88,2014/04/05 17:34:01 +0000,0,Free,1,0,0,1,https://api.soundcloud.com/users/88004930,sean quincey
+no exception,5,29,municipalequation,contrail-sound,1,9,4,2016/03/11 02:43:05 +0000,0,Free,0,0,0,11,https://api.soundcloud.com/users/159554787,Contrail Sound
+no exception,5,30,municipalequation,carin-zrioka-faulkner,0,0,2,2016/06/21 19:46:44 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/235216600,Carin Zrioka Faulkner
+no exception,5,31,municipalequation,user-250923305,0,0,1,2016/06/22 20:27:09 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/235451463,Jennifer M
+no exception,5,32,municipalequation,user-387648594,0,0,5,2016/08/15 15:30:16 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/238749053,JBBlues
+no exception,5,33,municipalequation,carol-r-61289259,0,0,1,2016/09/01 02:54:40 +0000,0,Free,1,0,1,0,https://api.soundcloud.com/users/251337986,Carol R
+no exception,5,34,municipalequation,gordon-smith-732353602,0,1,1,2016/09/07 12:24:09 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/252861899,Gordon Smith
+no exception,5,35,municipalequation,user-455756166,0,1,1,2016/12/12 14:48:08 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/274685508,User 455756166
+no exception,5,36,municipalequation,robert-jarvis-52034346,0,5,2,2016/11/29 17:55:32 +0000,0,Free,0,0,1,0,https://api.soundcloud.com/users/209718299,Robert Jarvis
+no exception,5,37,municipalequation,user-581143129,0,1,1,2016/06/21 20:02:06 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/235219425,User 581143129
+no exception,5,38,municipalequation,user-652971871,0,0,1,2016/06/22 13:12:28 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/235377613,User 652971871
+no exception,5,39,municipalequation,michael-c-peoples,0,1,1,2016/06/25 15:02:35 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/236020703,Michael C. Peoples
+no exception,5,40,municipalequation,anthony-dellomo,14,16,39,2016/12/13 03:21:44 +0000,0,Free,5,0,19,36,https://api.soundcloud.com/users/237349040,Anthony DeL'lomo
+no exception,5,41,municipalequation,user-594746995,0,4,30,2016/08/02 16:30:29 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/244763729,metanoia
+no exception,5,42,municipalequation,user-539190529,0,0,1,2016/10/07 03:21:06 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/259707265,Mayor B
+no exception,5,43,municipalequation,user-742766404,0,2,0,2016/11/14 23:02:23 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/268346589,NewTerrain
+no exception,5,44,municipalequation,user-484348193,0,0,1,2016/12/09 18:17:11 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/273966677,Kat
+no exception,5,45,municipalequation,user-444036610,0,1,1,2016/12/09 20:54:19 +0000,0,Free,0,0,0,0,https://api.soundcloud.com/users/274015938,User 444036610

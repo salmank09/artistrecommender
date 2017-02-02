@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Sal Stuff</title>
+  <meta name="description" content="Stuff in regards to Sal and his data science interests">
+  <meta name="author" content="Sal">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <link rel= "stylesheet" type= "text/css" href= "/static/custom_styles.css?=8">
+
+  <script type="text/javascript" src="/static/js/jquery-3.1.1.min.js">
+  </script>
+  <script type="text/javascript" src="/static/js/bootstrap.min.js">
+  </script>
+  <script>
+    $(document).ready(function () {
+        $('.dropdown-toggle').dropdown();
+    });
+  </script>
+  <link rel="stylesheet" type="text/css"
+      href="/static/css/bootstrap.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <div class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-main">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">Sal Stuff</a>
+      </div>
+
+      <div class="navbar-collapse collapse" id="navbar-main">
+        <ul class="nav navbar-nav navbar-right">
+
+          <li><a href='/about'>About</a></li>
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="/artistrecommender">Artist Recommender</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li>
+                <a href="https://www.linkedin.com/in/salkhan09" target="_blank" align="center">
+                  <i class="fa fa-linkedin-square fa-3x"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/salmank09" target="_blank" align="center">
+                  <i class="fa fa-github-square fa-3x"></i>
+                </a>
+              </li>
+              <li>
+                <a href='mailto:sallyk09@gmail.com' target="_blank" align="center">
+                  <i class="fa fa-envelope fa-3x"></i>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  </div>
+
+  <div class="custom-container">
+    <div class="container-fluid text-center">
+      <div class="row content">
+        <div class="col-sm-2 sidenav">
+
+        </div>
+        <div class="col-sm-8 text-left">
+            <h3>Welcome. Use this site to discover new house musicians!</h3>
+            <div>
+              <br>
+            </div>
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-sm-6 pad">
+                  <form class="form-horizontal" role="form" action="/artistrecommender" method='POST'>
+                    <div class="form-group">
+                      <div class="input-group">
+                        <td>
+                          <select id='artists' name='artist_alias'>
+                            <option value='choose_one'>Select an artist</option>
+                            {{all_artists}}
+                          </select>
+                        </td>
+                        <span class="input-group-btn custom-btn">
+                          <button value="artist-profile" class="btn btn-primary" onclick="javascript: window.open('https://soundcloud.com/' + document.getElementById('artists').value);">View Artist Profile</button>
+                        </span>
+                        <span class="input-group-btn custom-btn">
+                          <button type="submit" id="submit" value="artist-query" class="btn btn-primary">Recommend Artists</button>
+                        </span>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+
+          <hr>
+        <br>
+        {{result}}
+        </div>
+        <!--
+        <div class="col-sm-2 sidenav">
+          <div class="well">
+            <p>ADS</p>
+          </div>
+          <div class="well">
+            <p>ADS</p>
+          </div>
+        </div>
+        -->
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
