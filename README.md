@@ -106,4 +106,4 @@ A: Yes. Data can be gathered for additional musicians across additional genres a
 
 Q: Why didn't you consider collaborative filtering algorithms other than Alternating Least Squares to train your model?
 
-A: The ALS algorithm is the only collaborative filtering algorithm natively supported in spark’s MLlib. I wanted to get experience using Spark, and given the size of the dataset (28M rows) it also made the most sense to use.
+A: The ALS algorithm is the only collaborative filtering algorithm natively supported by Spark MLlib. I wanted to get experience using Spark, and given the size of the dataset (28M rows) it also made the most sense to use.
