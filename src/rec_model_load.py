@@ -12,11 +12,7 @@ from pyspark.ml.evaluation import BinaryClassificationEvaluator
 
 from pyspark.ml.evaluation import *
 import numpy as np
-# from sklearn.metrics.pairwise import cosine_distances, cosine_similarity
-# from scipy.spatial.distance import cdist
 import pandas as pd
-
-# import time
 
 import sys
 import itertools
@@ -25,26 +21,13 @@ from operator import add
 from os.path import join, isfile, dirname
 
 from pyspark.sql import SparkSession
-#
-# def computeRmse(model, data, n):
-#     """
-#     Compute RMSE (Root Mean Squared Error).
-#     """
-#     predictions = model.predictAll(data.map(lambda x: (x[0], x[1])))
-#     predictionsAndRatings = predictions.map(lambda x: ((x[0], x[1]), x[2])) \
-#       .join(data.map(lambda x: ((x[0], x[1]), x[2]))) \
-#       .values()
-#     return sqrt(predictionsAndRatings.map(lambda x: (x[0] - x[1]) ** 2).reduce(add) / float(n))
 
 spark = (SparkSession.builder
     .master("yarn")
-    # .config("spark.driver.cores", 2)
-    # .config("spark.driver.memory", "16g")
-    # .config("spark.executor.memory", "16g")
-    # .config("spark.executor.instances", "4")
-    # .config("spark.executor.")
     .appName("artistrecommender")
     .getOrCreate())
+
+#    .config("spark.executor.memory", "100g")
 
 ## Data frame loads
 
@@ -91,6 +74,7 @@ SELECT distinct
     ,_c13 as count
 FROM artists where _c2 != 'artist_name'
 AND _c14 = 0
+AND _c2 != 'Daft Punk'
 """).persist()
 
 artist_df.createOrReplaceTempView('artists')
@@ -127,7 +111,7 @@ select distinct
     ,sc_alias as artist_alias
 from artists
 group by sc_alias
-""")
+""").persist()
 
 custom_artist_id_df.createOrReplaceTempView('custom_artist_id')
 
@@ -137,7 +121,7 @@ select distinct
     ,follower_alias
 from followers
 group by follower_alias
-""")
+""").persist()
 
 custom_follower_id_df.createOrReplaceTempView('custom_follower_id')
 
@@ -151,96 +135,49 @@ SELECT DISTINCT
 FROM artist_follower af
 JOIN custom_artist_id caid on af.artist_alias = caid.artist_alias
 JOIN custom_follower_id cfid on af.follower_alias = cfid.follower_alias
-""")
+sort by af.artist_alias
+""").persist()
 
-artist_follower_ids_df.createOrReplaceTempView('artist_follower')
-#
-# ranks = [5, 10, 15]
-# lambdas = [.1, 1, 10]
-# numIters = [5, 10, 20]
-# bestModel = None
-# bestValidationRmse = float("inf")
-# bestRank = 0
-# bestLambda = -1.0
-# bestNumIter = -1
+als = ALS(rank=5, maxIter=5, seed=0, regParam=1, implicitPrefs=True, userCol="follower_id", itemCol="artist_id", ratingCol="count", nonnegative=True)
 
-als = ALS(rank=5, implicitPrefs=True, userCol="follower_id", itemCol="artist_id", ratingCol="count", nonnegative=True)
+# training, test = artist_follower_ids_df.randomSplit([0.8, 0.2], seed = 1)
 
-#model = als_model.fit(artist_follower_ids_df)
-
-training, test = artist_follower_ids_df.randomSplit([0.8, 0.2])
-
-model = als.fit(training)
-
-train, validation = training.randomSplit([.8, .2])
+model = als.fit(artist_follower_ids_df)
 
 # predictions = model.transform(test)
 #
 # predictions.registerTempTable("predictions")
 
-#print spark.sql("SELECT * FROM predictions WHERE NOT ISNAN(prediction) ORDER BY prediction DESC").show()
+# print spark.sql("SELECT * FROM predictions WHERE NOT ISNAN(prediction) ORDER BY prediction DESC").show()
 
-#print spark.sql("SELECT max(prediction), min(prediction) FROM predictions WHERE NOT ISNAN(prediction) ORDER BY prediction DESC").show()
-
-# paramGrid = ParamGridBuilder()\
-#     .addGrid(als.rank, [5, 10])\
-#     .addGrid(als.regParam, [.1, 1, 10])\
-#     .addGrid(als.maxIter, [5,10,20])\
-#     .build()
-#
 # paramGrid = ParamGridBuilder()\
 #     .addGrid(als.rank, [5, 10, 20])\
-#     .addGrid(als.regParam, [.1, 1, 10])\
+#     .addGrid(als.regParam, [.01, .1, 1])\
 #     .build()
-
-paramGrid = ParamGridBuilder()\
-    .addGrid(als.rank, [5, 6])\
-    .build()
-
-evaluator = RegressionEvaluator(metricName="rmse", labelCol="count")
-
-cv = CrossValidator(estimator=als, estimatorParamMaps=paramGrid, evaluator=evaluator)
-
+#
+# evaluator = RegressionEvaluator(metricName="rmse", labelCol="count")
+#
+# cv = CrossValidator(estimator=als, estimatorParamMaps=paramGrid, evaluator=evaluator)
+#
 # cvModel = cv.fit(training)
 #
 # best = cvModel.bestModel
-
-# numTraining = train.count()
-# numValidation = validation.count()
-# numTest = test.count()
 #
-# for rank, lmbda, numIter in itertools.product(ranks, lambdas, numIters):
-#     als = ALS(rank = rank, maxIter = numIter, regParam=lmbda, implicitPrefs=True,
-#             userCol="follower_id", itemCol="artist_id", ratingCol="count", nonnegative=True)
+# regParam = (best
+#             ._java_obj     # Get Java object
+#             .parent()      # Get parent (ALS estimator)
+#             .getRegParam()) # Get maxIter
 #
-#     model = als.fit(train)
+# rank = best.rank
 #
-#     validationRmse = computeRmse(model, validation, numValidation)
-#
-#     print "RMSE (validation) = %f for the model trained with " % validationRmse + \
-#           "rank = %d, lambda = %.1f, and numIter = %d." % (rank, lmbda, numIter)
-#
-#     if (validationRmse < bestValidationRmse):
-#         bestModel = model
-#         bestValidationRmse = validationRmse
-#         bestRank = rank
-#         bestLambda = lmbda
-#         bestNumIter = numIter
-#
-# testRmse = computeRmse(bestModel, test, numTest)
-#
-# # evaluate the best model on the test set
-# print "The best model was trained with rank = %d and lambda = %.1f, " % (bestRank, bestLambda) \
-#   + "and numIter = %d, and its RMSE on the test set is %f." % (bestNumIter, testRmse)
+# print 'regParam: ', regParam, 'rank: ', rank
 #
 # items = best.itemFactors
-#
-# df = items.toPandas()
-#
-# df.to_csv('bestModelItems.csv')
-#
-# items_mat = np.array(list(df['features']))
-#
-# print df.head()
-#
-# np.savetxt('items_mat.csv', items_mat)
+
+items = model.itemFactors
+
+df = items.toPandas()
+
+df.to_csv('bestModelItems.csv')
+
+print df.head()
